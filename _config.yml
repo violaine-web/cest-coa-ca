@@ -3,7 +3,6 @@ author:
   name: GitHub User
   email: contact@cest-coaca.fr
 description: > # this means to ignore newlines until "show_excerpts:"
-  C'est de la Culture d'Ocytocine pour Accorder le Cœur et les Actes
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
