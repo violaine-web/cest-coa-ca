@@ -7,5 +7,5 @@
 #
 layout: home
 ---
-<img class="fit-picture" src="/assets/img/non-violence4.jpg"
+<img class="fit-picture" src="./assets/img/non-violence4.jpg"
      alt="Affiche Festival de la Non-Violence Éducative">
