@@ -5,24 +5,28 @@ title: Le programme détaillé
 
 <img class="fit-picture" src="../../../assets/img/programme.png"
      alt="Programme du Festival de la Non-Violence Éducative">
+<details>
+  <summary>version texte</summary>
+• JEUX en extérieur et en intérieur de 14h à 17h 
+* de coopération (crayon coopératif, tour de Babel...)
+* d’équilibre (suspend, kaplas...)
+* d’ambiance (Brouhaha, keblo...)
+* sensoriels et créatifs (cuisine patouille, peinture végétale, land art...)
 
-<!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+• Mini ateliers de YOGA DU RIRE de 14h30 à 15 h et de 16h à 16h30
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+• CONFÉRENCE GESTICULÉE de 17h30 à 19h30 
+pour les + de 8 ans - prix libre et conscient - projection d’un film pour les – de 8 ans
 
-Jekyll also offers powerful support for code snippets:
+«...et baisse les yeux quand j’te parle !»
+De la violence éducative ordinaire 
+à la violence de l’humanité
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Une conférence gesticulée de Camille Pasquier qui s’adresse aux parents, aux accompagnantes de la petite enfance, aux futurs parents, aux enfants devenus grands, aux parents devenus grands parents...
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+« En tissant le fil rouge de l’enjeu politique que représente l’accompagnement de l’enfant face à notre Terre en décrépitude, je partage mon expérience de maman tâtonnante avec ma fille, de citoyenne révoltée par la violence du monde, que nous nous devons, avec urgence, de transformer en une humanité plus digne.
+Quand et comment serons-nous prêts à offrir aux enfants leur juste place dans le monde pour les accompagner enfin à prendre soin d’eux même, de leurs semblables, de leur environnement ? » C.P
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
--->
+Toute la journée un espace d’informations sur les 
+Violences Éducatives Ordinaires (VEO) en accès libre
+</details>
