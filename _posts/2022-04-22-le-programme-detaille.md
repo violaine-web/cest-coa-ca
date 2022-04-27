@@ -46,7 +46,6 @@ Une équipe joue l’adulte, une autre l’enfant ou l’ado... Naviguons durant
       <br>
       <br>
       <li><strong>DANSES EN CERCLE</strong> de 15h à 16h30 avec le groupe PLACK et des danseuses pour s’initier aux pas des danses traditionnelles</li>
-    </ul>
+    
 <h4>Toute la journée espace jeux sensoriels et créatifs
  + espace info VEO</h4>
-</details>
