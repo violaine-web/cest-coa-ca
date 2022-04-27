@@ -4,8 +4,11 @@ title: Presse
 permalink: /presse/
 ---
 
+<h4>Mercredi 27 avril 2022</h4>
+<img class="fit-picture" src="../../../assets/img/article-telegramme.jpg"
+     alt="Article paru dans le Télégramme mercredi 27 avril 2022">
 
-Pour plus d'informations, contactez-nous par mail : <a href="mailto:contact@cest-coaca.fr">contact@cest-coaca.fr</a>
+
 
 
 
