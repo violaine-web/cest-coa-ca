@@ -19,7 +19,8 @@ Et voici le teaser de la première édition
 
 Pour plus d'informations, contactez-nous par mail : <a href="mailto:contact@cest-coaca.fr">contact@cest-coaca.fr</a>
 
+<!--
 <center><img class="fit-picture" src="../../../assets/img/non-violence9.png"
      alt="Affiche Festival de la Non-Violence Éducative 2022"></center>
-
+-->
 
