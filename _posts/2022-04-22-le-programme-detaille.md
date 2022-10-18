@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Le programme détaillé
+published: false
 ---
 
 <img class="fit-picture" src="../../../assets/img/programme.png"
