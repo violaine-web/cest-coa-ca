@@ -2,7 +2,7 @@
 layout: home
 ---
 **À venir :**
-- **Yoga du Rire - tous les vendredis à 17h30 - Maison Ursule - sur le port du Fret**
+- **Yoga du Rire - tous les vendredis à 17h30 - Maison Ursule - sur le port du Fret**  
 *Venir en tenue confortable  et si possible avec un tapis*
 - **FNVE #2 : 29 et 30 avril 2023 - Ty Skol CROZON**
 
