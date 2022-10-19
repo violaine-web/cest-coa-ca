@@ -5,6 +5,7 @@ permalink: /yoga-du-rire/
 ---
 
 <h4>Rendez-vous tous les vendredis à 17h30 à la Maison Ursule, sur le port du Fret</h4>
+<h5>Venir en tenue confortable  et si possible avec un tapis</h5>
 
 >Je pratique le yoga du rire et vous propose de venir mélanger nos rires chaque vendredi soir ! Les séances sont ouvertes à tous.tes, enfants et adultes !  
 >Pourquoi j’adore cette pratique ? La raison est simple : chaque séance ressemble à une fête où on se remplit de vitalité et de bonne humeur.  
