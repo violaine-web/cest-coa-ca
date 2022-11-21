@@ -1,9 +1,6 @@
 ---
 layout: home
 ---
-<font color=orange>
-<h1> Exceptionnellement, la séance de Yoga du Rire du vendredi 4 novembre aura lieu à 16h. Il n'y aura pas de séance le 11 novembre.</h1>
-</font>
 
 **À venir :**
 - **Yoga du Rire - tous les vendredis à 17h30 - Maison Ursule - sur le port du Fret**  
