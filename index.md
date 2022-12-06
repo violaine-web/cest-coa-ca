@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-
+<h2><font color=orange>À noter : il n'y aura pas de séance vendredi 16 décembre 2022</font></h2>
 **À venir :**
 - **Yoga du Rire - tous les vendredis à 17h30 - Maison Ursule - sur le port du Fret**  
 *Venir en tenue confortable  et si possible avec un tapis*
