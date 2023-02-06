@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<h2><font color=orange>Prochaine session de Yoga du Rire le vendredi 20 janvier 2023 à 17h30 à la Maison Ursule au Fret</font></h2>
+<h2><font color=orange>Modification de l'horaire pour la session de Yoga du Rire du 10 février 2023 : rdv de 18h à 19h à la Maison Ursule au Fret</font></h2>
 **À venir :**
 - **Yoga du Rire - tous les vendredis à 17h30 - Maison Ursule - sur le port du Fret**  
 *Venir en tenue confortable  et si possible avec un tapis*
