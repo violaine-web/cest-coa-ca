@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ateliers Faber et Mazlish
+title: Faber et Mazlish
 permalink: /ateliers-faber-et-mazlish/
 ---
 
