@@ -19,4 +19,4 @@ Animés par Maud de Rodellec
 <br>
 <br>
 <center><img class="fit-picture" src="../../../assets/img/affiche-faber-mazlish-maud.jpg" 
-alt="Affiche Ateliers faber et Mazlish - tous les jeudi matin du 9 mars au 11 mai à la Maison Ursule au Fret"></center>
+alt="Affiche Ateliers Faber et Mazlish - tous les jeudi matin du 9 mars au 11 mai à la Maison Ursule au Fret"></center>
