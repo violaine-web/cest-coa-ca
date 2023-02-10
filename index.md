@@ -13,6 +13,7 @@ layout: home
 
 Pour plus d'informations, contactez-nous par mail : <a href="mailto:contact@cest-coaca.fr">contact@cest-coaca.fr</a>
 
-
+<!--
 <center><img class="fit-picture" src="./assets/img/affiche-yoga-du-rire.jpg"
      alt="Affiche Yoga du Rire"></center>
+-->
