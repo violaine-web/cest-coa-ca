@@ -1,11 +1,11 @@
 ---
 layout: home
 ---
-<h2><font color=orange>Modification de l'horaire pour la session de Yoga du Rire du 10 février 2023 : rdv de 18h à 19h à la Maison Ursule au Fret</font></h2>
+<h2><font color=orange>Samedi 29 et dimanche 30 avril, Festival de la Non-Violence Éducative #2 - Ty skol - St-Hernot - Crozon</font></h2>
 **À venir :**
 - **Yoga du Rire** - tous les vendredis à 17h30 - animé par Anne Raffray - Maison Ursule - sur le port du Fret  
 *Venir en tenue confortable  et si possible avec un tapis*
-- **Ateliers Faber et Mazlish** - tous les jeudis matin du 9 mars au 11 mai - animés par Maud de Rodellec - Maison Ursule - sur le port du Fret
+- **Ateliers Faber et Mazlish** - tous les jeudis matin du 30 mars au 1<sup>er</sup> juin - animés par Maud de Rodellec - Maison Ursule - sur le port du Fret
 - **FNVE #2 : 29 et 30 avril 2023 - Ty Skol CROZON**
 
 *******
