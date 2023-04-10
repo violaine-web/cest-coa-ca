@@ -1,7 +1,13 @@
 ---
 layout: home
 ---
-<h2><font color=orange>Samedi 29 et dimanche 30 avril, Festival de la Non-Violence Éducative #2 - Ty skol - St-Hernot - Crozon</font></h2>
+<h2><font color=orange>Samedi 29 et dimanche 30 avril
+<br>
+<a href="https://cest-coaca.fr/festival-non-violence-educative/">Festival de la Non-Violence Éducative #2</a>
+<br>
+Ty skol - St-Hernot - Crozon</font></h2>
+<br>
+<br>
 **À venir :**
 - **Yoga du Rire** - tous les vendredis à 17h30 - animé par Anne Raffray - Maison Ursule - sur le port du Fret  
 *Venir en tenue confortable  et si possible avec un tapis*
