@@ -7,7 +7,7 @@ permalink: /festival-non-violence-educative/
 **Festival de la Non-Violence Éducative #2 : 29 et 30 avril 2023 - Ty Skol - CROZON**
 <br>
 (si vous êtes perdu·e·s, <a href="https://www.google.com/maps/place/Ty+Skol/@48.2036999,-4.5309397,17z/data=!4m6!3m5!1s0x4816c24f14493d5b:0x3c8fbe3e802f56ed!8m2!3d48.2036964!4d-4.5283648!16s%2Fg%2F11clwlf985?hl=fr">suivez le guide</a>)
-<center><img class="fit-picture" src="../../../assets/img/fnve-2-edition.jpg"
+<center><img class="fit-picture" src="../../../assets/img/fnve-2023.jpg"
      alt="Affiche Festival de la Non-Violence Éducative 2023"></center>
 <details>
   <summary>version texte</summary>
@@ -17,7 +17,7 @@ permalink: /festival-non-violence-educative/
       </ul>
     <h3>Dimanche 30 avril 2023</h3>
       <ul>
-        <li><strong>« Ateliers en lien avec la conférence du samedi de 11h à 13h</strong></li>
+        <li><strong>Ateliers en lien avec la conférence du samedi de 11h à 13h</strong></li>
         <li><strong>Atelier de Yoga du Rire à 14h30</strong></li>
         <li><strong>Atelier de Marionnettes à 16h</strong></li>
         <li><strong>Danses en cercle à 17h30</strong>  avec le groupe PLACK et des danseuses pour s’initier aux pas des danses traditionnelles</li>
