@@ -13,6 +13,8 @@ permalink: /ressources/
 - <a href="https://vimeo.com/455522926">La jungle urbaine</a>
 - <a href="https://www.youtube.com/watch?v=m2BcLFbu5IA&t=2420s">1 sur 5 le film contre la pédocriminalité</a>
 - <a href="https://parentalitecreative.com">La Parentalité Créative par Catherine Dumonteil Kremer</a>
+- <a href="https://apprentie-girafe.com">Le blog de l'apprentie girafe</a>
+- <a href="https://art-mella.com/site">Conscience quantique</a>
 
 <!--
 - <a href="https://vimeo.com/412321694">Sans fessée comment faire avec la Parentalité Créative ?</a>-->
