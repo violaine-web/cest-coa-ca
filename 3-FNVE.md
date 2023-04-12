@@ -24,7 +24,7 @@ permalink: /festival-non-violence-educative/
         <li><strong>Toute la journée jeux, crêpes et buvette</strong></li>
   </ul>
     <h3>À Ty Skol, St-Hernot, Crozon</h3>
-
+</details>
 
 <br>
 <br>
