@@ -3,7 +3,7 @@ layout: page
 title: Presse
 permalink: /presse/
 ---
-<h4>La presse parle de la seconde édition du Festival de la Non-Violence Éducative</h4>
+<h4>Jeudi 27 avril 2023 - La presse parle de la seconde édition du Festival de la Non-Violence Éducative</h4>
 <img class="fit-picture" src="../../../assets/img/article-telegramme-festival.jpg"
      alt="Article paru dans le Télégramme jeudi 27 avril 2023">
 
