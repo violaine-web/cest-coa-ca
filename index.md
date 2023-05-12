@@ -5,7 +5,7 @@ layout: home
 - **Yoga du Rire** - tous les vendredis à 17h30 - animé par Anne Raffray - Maison Ursule - sur le port du Fret  
 *Venir en tenue confortable  et si possible avec un tapis*
 - **Ateliers Faber et Mazlish** - tous les jeudis matin du 30 mars au 1<sup>er</sup> juin - animés par Maud de Rodellec - Maison Ursule - sur le port du Fret
-- **FNVE #2 : 29 et 30 avril 2023 - Ty Skol CROZON**
+- **FNVE #3 : 20 et 21 avril 2024 - Ty Skol CROZON**
 
 *******
 

@@ -4,7 +4,7 @@ title: FNVE
 permalink: /festival-non-violence-educative/
 ---
 
-**La prochaine édition : Festival de la Non-Violence Éducative #3 : 27 et 28 avril 2024 - Ty Skol - CROZON**
+**La prochaine édition : Festival de la Non-Violence Éducative #3 : 20 et 21 avril 2024 - Ty Skol - CROZON**
 <!--
 **Festival de la Non-Violence Éducative #2 : 29 et 30 avril 2023 - Ty Skol - CROZON**
 <br>
