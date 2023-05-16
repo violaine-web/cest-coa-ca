@@ -6,7 +6,7 @@ permalink: /festival-non-violence-educative/
 
 **La prochaine édition : Festival de la Non-Violence Éducative #3 : 20 et 21 avril 2024 - Ty Skol - CROZON**
 
-
+<!--
 **Festival de la Non-Violence Éducative #2 : 29 et 30 avril 2023 - Ty Skol - CROZON**
 <br>
 (si vous êtes perdu·e·s, <a href="https://www.google.com/maps/place/Ty+Skol/@48.2036999,-4.5309397,17z/data=!4m6!3m5!1s0x4816c24f14493d5b:0x3c8fbe3e802f56ed!8m2!3d48.2036964!4d-4.5283648!16s%2Fg%2F11clwlf985?hl=fr">suivez le guide</a>)
@@ -34,7 +34,7 @@ permalink: /festival-non-violence-educative/
 <br>
 <br>
 <br>
-
+-->
 
 Et voici le teaser de la première édition
 
