@@ -2,9 +2,9 @@
 layout: home
 ---
 **À venir :**
-- **Yoga du Rire** - prochaines séances les 26 mai, 02 et 09 juin. Petite pause en juin et juillet. Reprise le 04 août - animé par Anne Raffray - à 17h30 - Maison Ursule - sur le port du Fret  
-*Venir en tenue confortable  et si possible avec un tapis*
-- **Ateliers Faber et Mazlish** - tous les jeudis matin du 30 mars au 1<sup>er</sup> juin - animés par Maud de Rodellec - Maison Ursule - sur le port du Fret
+- **dernier atelier vendredi 09 juin**
+- **reprise en août** : le mardi 01 août à 18h00 puis tous les mardis jusqu'à la fin du mois
+- **septembre :** retour au créneau du vendredi à 17h30 (normalement)
 - **FNVE #3 : 20 et 21 avril 2024 - Ty Skol CROZON**
 
 *******
