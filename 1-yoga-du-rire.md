@@ -7,6 +7,8 @@ permalink: /yoga-du-rire/
 <h4>Rendez-vous tous les vendredis à 17h30 à la Maison Ursule, sur le port du Fret<br>
 Venir en tenue confortable  et si possible avec un tapis</h4>
 
+Inscrivez-vous [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/cotisation-yoga-du-rire/widget-vignette) !
+
 >Je pratique le yoga du rire et vous propose de venir mélanger nos rires chaque vendredi soir ! Les séances sont ouvertes à tous.tes, enfants et adultes !  
 >Pourquoi j’adore cette pratique ? La raison est simple : chaque séance ressemble à une fête où on se remplit de vitalité et de bonne humeur.  
 >J'ai reçu mon habilitation à animer par l’Institut Français & international du yoga du rire, dans le respect de la méthode et approuvée par le médecin fondateur.   
