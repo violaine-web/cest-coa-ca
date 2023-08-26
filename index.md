@@ -2,8 +2,7 @@
 layout: home
 ---
 **À venir :**
-- **reprise en août** : le mardi 01 août à 18h00 puis tous les mardis jusqu'à la fin du mois (validation de la séance à partir de 4 personnes)
-- **septembre :** retour au créneau du vendredi à 17h30 (normalement)
+- **septembre :** dès la rentrée, retour au créneau du vendredi à 17h30 (normalement)
 - **FNVE #3 : 20 et 21 avril 2024 - Ty Skol CROZON**
 
 *******
