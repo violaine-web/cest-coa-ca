@@ -2,7 +2,8 @@
 layout: home
 ---
 **À venir :**
-- **septembre :** dès la rentrée, retour au créneau du vendredi à 17h30 (normalement)
+- **septembre :** dès la rentrée, retour au créneau du vendredi à 17h30
+- **Retrouvez-nous au Forum des associations de Crozon le 09 septembre**
 - **FNVE #3 : 20 et 21 avril 2024 - Ty Skol CROZON**
 
 *******
