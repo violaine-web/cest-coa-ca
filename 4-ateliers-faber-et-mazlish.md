@@ -5,8 +5,12 @@ permalink: /ateliers-faber-et-mazlish/
 ---
 
 ## Prochaine session
-8 ateliers de 2h30 **du 26 septembre au 19 décembre**<sup>*</sup><br>
-Tous les **mardis soir de 19h30 à 22h** à la **salle Ursule** sur le port du Fret<br>
+8 ateliers de 2h30 :  
+**du 26 septembre au 19 décembre**<br>
+Tous les **mardis soir de 19h30 à 22h**  
+**du 29 septembre au 22 décembre**<br>
+Tous les **vendredi matin**<br>
+à la **salle Ursule** sur le port du Fret<br>
 Animés par Maud de Rodellec
 <br>
 <br>
@@ -23,7 +27,6 @@ POur les inscriptions, c'est par [là](www.helloasso.com/associations/c-est-coac
 - téléphone : 06 40 52 46 12
 <br>
 <br>
-<sup>* *Ateliers possibles le vendredi matin ou autre selon la demande*
 <br>
 <br>
 <!--<center><img class="fit-picture" src="../../../assets/img/affiche-faber-mazlish-maud.jpg" 

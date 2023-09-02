@@ -2,8 +2,9 @@
 layout: home
 ---
 **À venir :**
-- **septembre :** dès la rentrée, retour au créneau du vendredi à 17h30
 - **Retrouvez-nous au Forum des associations de Crozon le 09 septembre**
+- **Yoga du Rire** : tous les mardis à 18h30 (à partir du 12/09/23)- Maison URSULE sur le port du FRET
+- **Ateliers Faber et Mazlish** : **du 26/09/23 au 19/12/23** pour les ateliers du mardi soir 19h30-22h et **du 29/09/23 au 22/12/23** pour les ateliers du vendredi matin  -  Maison URSULE sur le port du FRET 
 - **FNVE #3 : 20 et 21 avril 2024 - Ty Skol CROZON**
 
 *******
