@@ -5,9 +5,12 @@ permalink: /ateliers-faber-et-mazlish/
 ---
 
 ## Prochaine session
-8 ateliers de 2h30 **du 30 mars au 1<sup>er</sup>juin**<sup>*</sup><br>
-Tous les **jeudis matins de 10h à 12h30** à la **salle Ursule** sur le port du Fret<br>
+8 ateliers de 2h30 **du 26 septembre au 19 décembre**<sup>*</sup><br>
+Tous les **mardis soir de 19h30 à 22h** à la **salle Ursule** sur le port du Fret<br>
 Animés par Maud de Rodellec
+<br>
+<br>
+POur les inscriptions, c'est par [là](www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/evenements/ateliers-faber-et-mazlish-mardi-soir/widget-vignette) !
 <br>
 <br>
 **Tarifs :**
@@ -23,5 +26,5 @@ Animés par Maud de Rodellec
 <sup>* *Ateliers possibles le vendredi matin ou autre selon la demande*
 <br>
 <br>
-<center><img class="fit-picture" src="../../../assets/img/affiche-faber-mazlish-maud.jpg" 
-alt="Affiche Ateliers Faber et Mazlish - tous les jeudi matin du 9 mars au 11 mai à la Maison Ursule au Fret"></center>
+<!--<center><img class="fit-picture" src="../../../assets/img/affiche-faber-mazlish-maud.jpg" 
+alt="Affiche Ateliers Faber et Mazlish - tous les jeudi matin du 9 mars au 11 mai à la Maison Ursule au Fret"></center>-->
