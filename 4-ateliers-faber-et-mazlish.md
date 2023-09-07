@@ -14,7 +14,7 @@ Tous les **vendredi matin**<br>
 Animés par Maud de Rodellec
 <br>
 <br>
-POur les inscriptions, c'est par [là](www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/evenements/ateliers-faber-et-mazlish-mardi-soir/widget-vignette) !
+Pour les inscriptions, c'est par [là](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/evenements/ateliers-faber-et-mazlish-mardi-soir/widget-vignette) !
 <br>
 <br>
 **Tarifs :**
