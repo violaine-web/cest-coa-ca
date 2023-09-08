@@ -5,7 +5,7 @@ permalink: /dans-les-bois/
 published: true
 ---
 
-### OUVERTURE D’UN ATELIER BI-MENSUEL PARENT-ENFANT PRÉVU AU PRINTEMPS 2024
+### Ouverture d'un atelier bi-mensuel parent-enfant prévue au printemps 2024
  
 Si vous souhaitez recevoir les informations concernant ce nouvel atelier dans les bois merci de nous envoyer un message via la page contact.
  
