@@ -11,7 +11,7 @@ Venir en tenue confortable  et si possible avec un tapis</h4>
 **Tarifs**
 <br>
 | Formules | Adulte | Enfant |
-| -------- | ------ | ------ |
+|--------|:------:|------:|
 | Abonnement annuel | 175 €   |  105 € |
 | Abonnement bimestriel | |  |
 | Sept-oct | 42 €   |  18 € |
