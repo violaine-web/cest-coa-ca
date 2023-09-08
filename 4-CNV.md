@@ -5,16 +5,17 @@ permalink: /médiation-CNV/
 published: true
 ---
 
-### Médiation CNV<sup>*</sup> pour accompagner les familles : parents, adolescents, grands-parents, parents séparés ou en cours de séparation...
+### Médiation CNV<sup>*</sup> Pour accompagner les familles: parents, adolescents, grands-parents, parents séparés ou en cours de séparation...
 
-Pour vous offrir un espace d'expression et d'écoute sécure dont la médiatrice est garante afin de dénouer les noeuds dans vos relations et permettre à chacun.e de retrouver de la paix au quotidien.
+Pour vous offrir un espace d'expression et d'écoute sécure dont je suis garante afin de dénouer les nœuds dans vos relations et permettre à chacun.e de retrouver de la paix au quotidien.
 
-<sup>*</sup> CNV, c'est quoi ?
-Communication Non Violente, un processus puissant et efficace d'écoute de soi et de l'autre, véritable levier de transformation qui permet de prendre soin des relations en profondeur.
+<sup>*</sup> CNV, c'est quoi ?  
+**C**ommunication **N**on **V**iolente, un processus puissant et efficace d'écoute de soi et de l'autre, véritable levier de transformation des conflits qui permet de prendre soin des relations en profondeur.
 
 **Contact**
 
-- Mélanie : 07 81 18 85 31
+- Mélanie, médiatrice professionnelle : 07 81 18 85 31
+- courriel : <a href="mailto:melanie.gettings@gmail.com">melanie.gettings@gmail.com</a>
 - 11 rue de Tal ar Groas - 29160 Lanvéoc
 
 

@@ -22,8 +22,9 @@ Pour les inscriptions, c'est par [là](https://www.helloasso.com/associations/c-
 - 240 € pour un couple + 50 € pour les livres
 
 **Contact :**
-- courriel : <a href="mailto:maud77@gmail.com">maud77@gmail.com</a>
 - Maud : 06 40 52 46 12
+- courriel : <a href="mailto:maud77@gmail.com">maud77@gmail.com</a>
+
 
 ### A partir de janvier 2024 une nouvelle thématique "Frères et soeurs sans rivalité" (session de 6 séances)
 <br>

@@ -53,6 +53,4 @@ Et juste pour le plaisir, voici le teaser de la première édition
           frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         <br /><a href="https://vimeo.com/751674265">voir sur Vimeo</a>.</p>
 
-Pour plus d'informations, contactez-nous par mail : <a href="mailto:contact@cest-coaca.fr">contact@cest-coaca.fr</a>
-
 _<sup>*</sup> Anne se corrige !:  C'est COACA ? est bien un acronyme et non une anagramme ! ..._ 
