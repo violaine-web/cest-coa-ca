@@ -9,6 +9,7 @@ Venir en tenue confortable  et si possible avec un tapis</h4>
 <center><img class="fit-picture" src="../../../assets/img/formation-yoga-du-rire-prof-f-loizeau.jpg"
      alt="Photo d'une séance de formation"></center>
 **Tarifs**
+<br>
 | Formules | Adulte | Enfant |
 | -------- | ------ | ------ |
 | Abonnement annuel | 175 €   |  105 € |
