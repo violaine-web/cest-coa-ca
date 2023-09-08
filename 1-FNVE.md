@@ -55,4 +55,4 @@ Et juste pour le plaisir, voici le teaser de la première édition
 
 Pour plus d'informations, contactez-nous par mail : <a href="mailto:contact@cest-coaca.fr">contact@cest-coaca.fr</a>
 
-<sup>*</sup>*Anne se corrige !:  C'est COACA ? est bien un acronyme et non une anagramme ! ...* 
+_<sup>*</sup> Anne se corrige !:  C'est COACA ? est bien un acronyme et non une anagramme ! ..._ 
