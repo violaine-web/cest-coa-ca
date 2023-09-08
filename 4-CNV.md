@@ -1,0 +1,39 @@
+---
+layout: page
+title: Médiation CNV
+permalink: /médiation-CNV/
+published: true
+---
+
+### Médiation CNV<sup>*</sup> pour accompagner les familles : parents, adolescents, grands-parents, parents séparés ou en cours de séparation...
+
+Pour que les petits et gros nœuds dans vos liens et vos relations se dénouent et que vous puissiez vivre plus de paix et de sérénité grâce à la prise en compte des besoins de chacun.e.
+
+<sup>*</sup> CNV, c'est quoi ?
+Communication Non Violente, un processus puissant et efficace d'écoute de soi et de l'autre, véritable levier de transformation qui permet de prendre soin des relations en profondeur.
+
+**Contact**
+
+- Mélanie : 07 81 18 85 31
+ 
+<!--
+<img class="fit-picture" src="../../../assets/img/affiche-ppn.jpg"
+     alt="Affiche Pédagogie par la Nature">
+
+-->
+
+
+
+<!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll 
+-->

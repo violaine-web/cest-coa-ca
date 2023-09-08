@@ -4,7 +4,7 @@ title: Faber et Mazlish
 permalink: /ateliers-faber-et-mazlish/
 ---
 
-## Prochaine session Prochaines d'ateliers sur la thématique "Parler pour que les enfants écoutent et Ecouter pour que les enfants parlent"
+### Prochaine session Prochaines d'ateliers sur la thématique "Parler pour que les enfants écoutent et Ecouter pour que les enfants parlent"
  
 8 ateliers de 2h30 :  
 Tous les **mardis soir de 19h30 à 22h du 26 septembre au 19 décembre**<br>
@@ -14,21 +14,18 @@ Tous les **vendredi matin du 29 septembre au 22 décembre**<br>
 Animés par Maud de Rodellec
 <br>
 <br>
-## A partir de janvier 2024 une nouvelle thématique "Frères et soeurs sans rivalité" (session de 6 séances)
-
 Pour les inscriptions, c'est par [là](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/evenements/ateliers-faber-et-mazlish-mardi-soir/widget-vignette) !
 <br>
 <br>
 **Tarifs :**
 - 160 € pour une personne + 50 € pour les livres
 - 240 € pour un couple + 50 € pour les livres
-<br>
-<br>
+
 **Contact :**
 - courriel : <a href="mailto:maud77@gmail.com">maud77@gmail.com</a>
-- téléphone : 06 40 52 46 12
-<br>
-<br>
+- Maud : 06 40 52 46 12
+
+### A partir de janvier 2024 une nouvelle thématique "Frères et soeurs sans rivalité" (session de 6 séances)
 <br>
 <br>
 <!--<center><img class="fit-picture" src="../../../assets/img/affiche-faber-mazlish-maud.jpg" 

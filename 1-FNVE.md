@@ -4,7 +4,17 @@ title: FNVE
 permalink: /festival-non-violence-educative/
 ---
 
-**La prochaine édition : Festival de la Non-Violence Éducative #3 : 20 et 21 avril 2024 - Ty Skol - CROZON**
+### La prochaine édition : Festival de la Non-Violence Éducative #3 : 20 et 21 avril 2024 - Ty Skol - CROZON
+
+Au programme : **Théâtre-forum
+autour de la parentalité**  
+
+Spectacle interactif pour les parents - enfants bienvenus à partir de 6 ans -
+> Sur un mode humoristique, Fanny et Christian jouent des situations conflictuelles de la vie en famille. Après un échange avec les spectateurs, chaque situation est revisitée dans une version où la relation parent-enfant se vit dans plus de légèreté, de lien et d’harmonie.
+
+<p class="text-center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/JdONQSByA5k?si=WgZE_bsCvfCN7HYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <br /><a href="https://www.youtube.com/watch?v=JdONQSByA5k">voir sur Youtube</a>.</p>
 
 <!--
 **Festival de la Non-Violence Éducative #2 : 29 et 30 avril 2023 - Ty Skol - CROZON**
@@ -36,7 +46,7 @@ permalink: /festival-non-violence-educative/
 <br>
 -->
 
-Et voici le teaser de la première édition
+Et juste pour le plaisir, voici le teaser de la première édition
 
 <p class="text-center">
         <iframe src="https://player.vimeo.com/video/751674265?color=ffffff" width="640" height="360"

@@ -1,13 +1,16 @@
 ---
 layout: page
-title: L'Atelier de Parents
-permalink: /atelier-parents/
-published: false
+title: Dans les Bois
+permalink: /dans-les-bois/
+published: true
 ---
 
-<h4>Mercredi 27 avril 2022</h4>
-<img class="fit-picture" src="../../../assets/img/article-telegramme.jpg"
-     alt="Article paru dans le Télégramme mercredi 27 avril 2022">
+### OUVERTURE D’UN ATELIER BI-MENSUEL PARENT-ENFANT PRÉVU AU PRINTEMPS 2024
+ 
+Si vous souhaitez recevoir les informations concernant ce nouvel atelier dans les bois merci de nous envoyer un message via la page contact.
+ 
+<img class="fit-picture" src="../../../assets/img/affiche-ppn.jpg"
+     alt="Affiche Pédagogie par la Nature">
 
 
 

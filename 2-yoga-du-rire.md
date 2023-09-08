@@ -4,21 +4,32 @@ title: Yoga du rire
 permalink: /yoga-du-rire/
 ---
 
-<h4>Rendez-vous tous les mardis à 17h30 à la Maison Ursule, sur le port du Fret<br>
-Venir en tenue confortable  et si possible avec un tapis</h4>
+### Rendez-vous tous les mardis de 18h30 à 19h30 à la Maison Ursule, sur le port du Fret<br>
+<h4>Venir en tenue confortable  et si possible avec un tapis</h4>
 <center><img class="fit-picture" src="../../../assets/img/formation-yoga-du-rire-prof-f-loizeau.jpg"
      alt="Photo d'une séance de formation"></center>
 **Tarifs**
 <br>
+
 | Formules | Adulte | Enfant |
 |--------|:------:|------:|
 | Abonnement annuel | 175 €   |  105 € |
 | Abonnement bimestriel | |  |
-| Sept-oct | 42 €   |  18 € |
+| Sept-oct (6 séances) | 42 €   |  18 € |
+| Nov-déc (7 séances) | 49 €   |  21 € |
+| Jan-fév (7 séances) | 49 €   |  21 € |
+| Mars-avril (6 séances) | 42 €   |  18 € |
+| Mai-juin (9 séances) | 63 €   |  27 € |
+| Carte de 10 séances | 100 €   |  30 € |
+| Séance ponctuelle | 12 €   |  5 € |
 
 Inscrivez-vous [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/cotisation-yoga-du-rire/widget-vignette) !
 
 Avant de vous décider, en cas de doutes, voici un lien vers [les contre-indications](https://www.formation-yogadurire.fr/contre-indications-yoga-du-rire/)
+
+**Contact :**
+- courriel : <a href="contact@cest-coaca.fr">contact@cest-coaca.fr</a>
+- Anne : 06 78 18 82 21
 
 <!--Je pratique le yoga du rire et vous propose de venir mélanger nos rires chaque vendredi soir ! Les séances sont ouvertes à tous.tes, enfants et adultes !  
 >Pourquoi j’adore cette pratique ? La raison est simple : chaque séance ressemble à une fête où on se remplit de vitalité et de bonne humeur.  
