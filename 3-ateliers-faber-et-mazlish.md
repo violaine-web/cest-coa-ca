@@ -4,12 +4,12 @@ title: Faber et Mazlish
 permalink: /ateliers-faber-et-mazlish/
 ---
 
-### Prochaine session Prochaines d'ateliers sur la thématique "Parler pour que les enfants écoutent et Ecouter pour que les enfants parlent"
+### Prochaine session d'ateliers sur la thématique "Parler pour que les enfants écoutent et Ecouter pour que les enfants parlent"
  
 8 ateliers de 2h30 :  
 Tous les **mardis soir de 19h30 à 22h du 26 septembre au 19 décembre**<br>
 Ou
-Tous les **vendredi matin du 29 septembre au 22 décembre**<br>
+Tous les **vendredis matin du 29 septembre au 22 décembre**<br>
 à la **salle Ursule** sur le port du Fret<br>
 Animés par Maud de Rodellec
 <br>

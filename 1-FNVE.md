@@ -10,7 +10,7 @@ Au programme : **Théâtre-forum
 autour de la parentalité**  
 
 Spectacle interactif pour les parents - enfants bienvenus à partir de 6 ans -
-> Sur un mode humoristique, Fanny et Christian jouent des situations conflictuelles de la vie en famille. Après un échange avec les spectateurs, chaque situation est revisitée dans une version où la relation parent-enfant se vit dans plus de légèreté, de lien et d’harmonie.
+> Sur un mode humoristique, Fanny et Christian jouent des situations conflictuelles de la vie en famille. Après un échange avec les spectateurs·trices, chaque situation est revisitée dans une version où la relation parent-enfant se vit dans plus de légèreté, de lien et d’harmonie.
 
 <p class="text-center">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/JdONQSByA5k?si=WgZE_bsCvfCN7HYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

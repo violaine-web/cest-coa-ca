@@ -7,7 +7,7 @@ published: true
 
 ### Ouverture d'un atelier bi-mensuel parent-enfant prévue au printemps 2024
  
-Si vous souhaitez recevoir les informations concernant ce nouvel atelier dans les bois merci de nous envoyer un message via la page contact.
+Si vous souhaitez recevoir les informations concernant ce nouvel atelier dans les bois merci de nous envoyer un message via la page [contact](https://cest-coaca.fr/contact/).
  
 <img class="fit-picture" src="../../../assets/img/affiche-ppn.jpg"
      alt="Affiche Pédagogie par la Nature">

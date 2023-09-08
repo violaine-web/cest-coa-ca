@@ -16,11 +16,7 @@ Communication Non Violente, un processus puissant et efficace d'écoute de soi e
 
 - Mélanie : 07 81 18 85 31
 - 11 rue de Tal ar Groas - 29160 Lanvéoc
-<!--
-<img class="fit-picture" src="../../../assets/img/affiche-ppn.jpg"
-     alt="Affiche Pédagogie par la Nature">
 
--->
 
 
 
