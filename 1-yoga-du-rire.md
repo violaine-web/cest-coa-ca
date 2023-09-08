@@ -4,12 +4,17 @@ title: Yoga du rire
 permalink: /yoga-du-rire/
 ---
 
-<h4>Rendez-vous tous les vendredis à 17h30 à la Maison Ursule, sur le port du Fret<br>
+<h4>Rendez-vous tous les mardis à 17h30 à la Maison Ursule, sur le port du Fret<br>
 Venir en tenue confortable  et si possible avec un tapis</h4>
+<center><img class="fit-picture" src="./assets/img/formation-yoga-du-rire-professeur-fabrice-loizeau_113.jpg"
+     alt="Photo d'une séance de formation'"></center>
+
 
 Inscrivez-vous [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/cotisation-yoga-du-rire/widget-vignette) !
 
->Je pratique le yoga du rire et vous propose de venir mélanger nos rires chaque vendredi soir ! Les séances sont ouvertes à tous.tes, enfants et adultes !  
+Avant de vous décider, en cas de doutes, voici un lien vers [les contre-indications](https://www.formation-yogadurire.fr/contre-indications-yoga-du-rire/)
+
+<!-->Je pratique le yoga du rire et vous propose de venir mélanger nos rires chaque vendredi soir ! Les séances sont ouvertes à tous.tes, enfants et adultes !  
 >Pourquoi j’adore cette pratique ? La raison est simple : chaque séance ressemble à une fête où on se remplit de vitalité et de bonne humeur.  
 >J'ai reçu mon habilitation à animer par l’Institut Français & international du yoga du rire, dans le respect de la méthode et approuvée par le médecin fondateur.   
 
@@ -26,7 +31,7 @@ Le concept est basé sur un fait scientifique démontré par les neurosciences �
 La science confirme que la pratique du yoga du rire augmente la longévité et combat les maladies liées au stress. Ajoutons qu’il réduit le risque de troubles psychologiques et physiologiques, d’hypertension et de problèmes cardiaques. Mieux encore, il apporte dynamisme & optimisme et encourage chacun à mieux aborder la vie en générale. C’est aussi un chemin vers le bonheur et permet de forger un mental positif pour faire face aux aléas du quotidien.
 
 Source : extraits de [Institut Français du Yoga du Rire & Rire-Santé](https://www.formation-yogadurire.fr/)
-
+-->
 
 
 
