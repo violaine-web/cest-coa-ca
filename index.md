@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-## La Maison Ursule étant en travaux, la séance de ce soir se voit dans l'obligation d'être annulée !
+
 **À venir :**
 - **Yoga du Rire** : tous les mardis à 18h30 (à partir du 12/09/23)- Maison URSULE sur le port du FRET
 - **Ateliers Faber et Mazlish** : **du 26/09/23 au 19/12/23** pour les ateliers du mardi soir 19h30-22h et **du 29/09/23 au 22/12/23** pour les ateliers du vendredi matin  -  Maison URSULE sur le port du FRET 
