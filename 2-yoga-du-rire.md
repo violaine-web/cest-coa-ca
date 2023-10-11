@@ -1,9 +1,9 @@
 
-<p class="right"><img class="fit-picture" src="../../../assets/img/formation-yoga-du-rire-prof-f-loizeau.jpg"
-     alt="Photo d'une séance de formation">---
 layout: page
 title: Yoga du rire
 permalink: /yoga-du-rire/
+<p class="right"><img class="fit-picture" src="../../../assets/img/formation-yoga-du-rire-prof-f-loizeau.jpg"
+     alt="Photo d'une séance de formation">---
 ---
 
 
