@@ -1,4 +1,4 @@
-
+---
 layout: page
 title: Yoga du rire
 permalink: /yoga-du-rire/
