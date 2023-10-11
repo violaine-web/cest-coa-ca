@@ -3,14 +3,14 @@ layout: page
 title: Yoga du rire
 permalink: /yoga-du-rire/
 ---
+<p class="right"><img class="fit-picture" src="../../../assets/img/formation-yoga-du-rire-prof-f-loizeau.jpg"
+     alt="Photo d'une séance de formation">
 
 ### Rendez-vous tous les mardis de 18h30 à 19h30 à la Maison Ursule, sur le port du Fret<br>
 <h4>Venir en tenue confortable  et si possible avec un tapis</h4>
-<left><img class="fit-picture" src="../../../assets/img/formation-yoga-du-rire-prof-f-loizeau.jpg"
-     alt="Photo d'une séance de formation"></left>
 
-<right><img class="fit-picture" src="../../../assets/img/Bienfaits-du-rire-800x450.jpg"
-     alt="Bienfaits du Yoga du Rire"></right>
+<center><img class="fit-picture" src="../../../assets/img/Bienfaits-du-rire-800x450.jpg"
+     alt="Bienfaits du Yoga du Rire"></center>
      
 **Tarifs**
 <br>
