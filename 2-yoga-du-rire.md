@@ -9,8 +9,8 @@ permalink: /yoga-du-rire/
 <left><img class="fit-picture" src="../../../assets/img/formation-yoga-du-rire-prof-f-loizeau.jpg"
      alt="Photo d'une séance de formation"></left>
 
-     <right><img class="fit-picture" src="./assets/img/page-accueil-site.jpg"
-     alt="Photo de l'équipe"></right>
+     <right><img class="fit-picture" src="./assets/img/Bienfaits-du-rire-800x450.jpg"
+     alt="Bienfaits du Yoga du Rire"></right>
 **Tarifs**
 <br>
 
