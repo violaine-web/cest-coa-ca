@@ -3,7 +3,7 @@ layout: home
 ---
 
 **À venir :**
-<h2><balise style="background : #FFA500 ; display : inline ;">La séance de Yoga du Rire du mardi 17 est reportée au mardi 24 octobre</balise></h2>
+<h2><balise style="background : #FFA500 ; display : inline ;"></balise></h2>
 - **Yoga du Rire** : tous les mardis à 18h30 (à partir du 12/09/23)- Maison URSULE sur le port du FRET
 - **Ateliers Faber et Mazlish** : **du 26/09/23 au 19/12/23** pour les ateliers du mardi soir 19h30-22h et **du 29/09/23 au 22/12/23** pour les ateliers du vendredi matin  -  Maison URSULE sur le port du FRET 
 - **FNVE #3 : 20 et 21 avril 2024 - Ty Skol CROZON**
