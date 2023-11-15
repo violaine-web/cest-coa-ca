@@ -7,7 +7,7 @@ layout: home
 - **Yoga du Rire** : tous les mardis à 18h30 - Maison URSULE sur le port du FRET - CROZON
 
  **Prenez date ! notre événement annuel :**
-- **FNVE #3 : 20 et 21 avril 2024 - Ty Skol - St Hernot - CROZON**
+- **FNVE #3 : 20 et 21 avril 2024** - Ty Skol - St Hernot - CROZON
 
 *******
 <center><img class="fit-picture" src="./assets/img/page-accueil-site.jpg"
