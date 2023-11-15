@@ -2,11 +2,12 @@
 layout: home
 ---
 
-**À venir :**
+**En ce moment :**
 <h2><balise style="background : #FFA500 ; display : inline ;"></balise></h2>
-- **Yoga du Rire** : tous les mardis à 18h30 (à partir du 12/09/23)- Maison URSULE sur le port du FRET
-- **Ateliers Faber et Mazlish** : **dates à définir selon les inscriptions** 2 créneaux possibles, le mardi soir 19h30-22h et le vendredi matin 10h-12h30 -  Maison URSULE sur le port du FRET 
-- **FNVE #3 : 20 et 21 avril 2024 - Ty Skol CROZON**
+- **Yoga du Rire** : tous les mardis à 18h30 (à partir du 12/09/23)- Maison URSULE sur le port du FRET - CROZON
+
+ **Prenez date ! notre événement annuel :**
+- **FNVE #3 : 20 et 21 avril 2024 - Ty Skol - St Hernot - CROZON**
 
 *******
 <center><img class="fit-picture" src="./assets/img/page-accueil-site.jpg"
