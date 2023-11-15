@@ -16,7 +16,8 @@ permalink: /ressources/
 - <a href="https://apprentie-girafe.com">Le blog de l'apprentie girafe</a>
 - <a href="https://art-mella.com/site">Conscience quantique</a>
 
+- <a href="https://youtu.be/m02aMaQOI5A?feature=shared">...Et baisse les yeux quand j'te parle! Camille PASQUIER - Conférence gesticulée présentée à l'occasion du 1er festival en 2022 !</a>
 <!--
 - <a href="https://vimeo.com/412321694">Sans fessée comment faire avec la Parentalité Créative ?</a>-->
 
-- <a href="https://youtu.be/m02aMaQOI5A?feature=shared">...Et baisse les yeux quand j'te parle! Camille PASQUIER - Conférence gesticulée présentée à l'occasion du 1er festival en 2022 !</a>
+
