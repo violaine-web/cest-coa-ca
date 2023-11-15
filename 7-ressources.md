@@ -10,6 +10,9 @@ Le site de référence en matière de VEO
 - <a href="https://www.oveo.org/">L'Observatoire de la Violence Éducative Ordinaire</a>
 
 <br>
+le site de Catherine Dumonteil Kremer :
+- <a href="https://parentalitecreative.com">La Parentalité Créative </a>
+<br>
 Les courtes vidéos proposées par Catherine Dumonteil Kremer :
 - <a href="https://www.youtube.com/watch?v=cHsr3w6nX9w&feature=youtu.be">Obéir ou comprendre</a> 
 - <a href="https://vimeo.com/270265863">Tout savoir sur la pose de limites</a>
@@ -17,7 +20,6 @@ Les courtes vidéos proposées par Catherine Dumonteil Kremer :
 - <a href="https://vimeo.com/254280785">La charge mentale des enfants</a> 
 - <a href="https://vimeo.com/470542051">Les émotions des parents</a> 
 - <a href="https://vimeo.com/455522926">La jungle urbaine</a>
-- <a href="https://parentalitecreative.com">La Parentalité Créative </a>
 
 <br>
 Des outils graphiques pour mieux comprendre la CNV, les émotions... :
