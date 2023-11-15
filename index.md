@@ -12,10 +12,15 @@ layout: home
 *******
 <center><img class="fit-picture" src="./assets/img/page-accueil-site.jpg"
      alt="Photo de l'équipe"></center>
+     
 ### **C'est Coaça ?** objet de l'association :
 Accompagner les citoyen·nes vers une société libérée de toutes formes de violence. 
-Informer sur les violences éducatives ordinaires (VEO)
+Informer sur les violences éducatives ordinaires (VEO).
 Proposer des espaces de partage et d'expérimentation afin de développer des relations sans enjeu de domination et ainsi un apprentissage de la paix.
+
+*******
+Le mouvement, les sensations corporelles, l’écoute et le dialogue sont la base de notre travail sur les relations, à soi, aux autres et au monde.
+Nous proposons également des programmes personnalisés, mêlants nos différentes compétences, sur devis.
 
 Pour plus d'informations, contactez-nous par mail : <a href="mailto:contact@cest-coaca.fr">contact@cest-coaca.fr</a>
 
