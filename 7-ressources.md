@@ -26,11 +26,11 @@ Des outils graphiques pour mieux comprendre la CNV, les émotions... :
 
 <br>
 La conférence gesticulée présentée à l'occasion du 1er festival en 2022 !
-- <a href="https://youtu.be/m02aMaQOI5A?feature=shared">...Et baisse les yeux quand j'te parle! Camille PASQUIER </a>
+- <a href="https://youtu.be/m02aMaQOI5A?feature=shared">"...Et baisse les yeux quand j'te parle!" Camille PASQUIER </a>
 
 <br>
 Un film incontournable réalisé par Karl Zero
-- <a href="https://www.youtube.com/watch?v=m2BcLFbu5IA&t=2420s">1 sur 5 le film contre la pédocriminalité</a> 
+- <a href="https://www.youtube.com/watch?v=m2BcLFbu5IA&t=2420s">"1 sur 5" le film contre la pédocriminalité</a> 
 
 
 
