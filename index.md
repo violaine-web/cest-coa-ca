@@ -3,7 +3,7 @@ layout: home
 ---
 **Pour fêter la nouvelle année : séance exceptionnelle de YOGA DU RIRE !**
 <h2><balise style="background : #FFA500 ; display : inline ;"></balise></h2>
-**DIMANCHE 07 Janvier 2024 ** : RDV à 11h à la Maison du Temps Libre - CROZON<br>
+-**DIMANCHE 07 Janvier 2024** : RDV à 11h à la Maison du Temps Libre - CROZON<br>
 Inscrivez-vous en envoyant un sms (06 78 18 82 21) ou un <a href="mailto:contact@cest-coaca.fr">mail</a>
 
 **En ce moment :**
