@@ -1,6 +1,10 @@
 ---
 layout: home
 ---
+**Pour fêter la nouvelle année : séance exceptionnelle de YOGA DU RIRE**
+<h2><balise style="background : #FFA500 ; display : inline ;"></balise></h2>
+- **DIMANCHE 07 Janvier 2024 ** : RDV à 11h à la Maison du Temps Libre - CROZON
+Inscrivez-vous en envoyant un sms (06 78 18 82 21) ou un <a href="mailto:contact@cest-coaca.fr">mail</a>
 
 **En ce moment :**
 <h2><balise style="background : #FFA500 ; display : inline ;"></balise></h2>
@@ -13,7 +17,7 @@ layout: home
 <center><img class="fit-picture" src="./assets/img/page-accueil-site.jpg"
      alt="Photo de l'équipe"></center>
      
-###Objet de l'association : **C'est Coaça ?**<br>
+Objet de l'association : **C'est Coaça ?**<br>
 Accompagner les citoyen·nes vers une société libérée de toutes formes de violence.<br>
 Informer sur les violences éducatives ordinaires (VEO).<br>
 Proposer des espaces de partage et d'expérimentation afin de développer des relations sans enjeu de domination et ainsi un apprentissage de la paix.<br>
