@@ -3,6 +3,9 @@ layout: page
 title: Yoga du rire
 permalink: /yoga-du-rire/
 ---
+<img class="fit-picture" src="../../../assets/img/Yoga du rire New Year 2024.jpg"
+     alt="Séance Exceptionnelle Nouvelle Année">
+
 <img class="fit-picture" src="../../../assets/img/formation-yoga-du-rire-prof-f-loizeau.jpg"
      alt="Photo d'une séance de formation">
 ## Rendez-vous tous les mardis de 18h30 à 19h30 à la Maison Ursule, sur le port du Fret
