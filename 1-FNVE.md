@@ -7,7 +7,7 @@ permalink: /festival-non-violence-educative/
 ### La prochaine édition : Festival de la Non-Violence Éducative #3 : 20 et 21 avril 2024 - Ty Skol - CROZON
 
 Au programme : **Théâtre-forum
-autour de la parentalité**  Thèmes retenus : Les écrans, le coucher et le désordre !
+autour de la parentalité**  Thèmes retenus :  **Les écrans, le coucher et le désordre !**
 
 Spectacle interactif pour les parents - enfants bienvenus à partir de 6 ans -
 > Sur un mode humoristique, Fanny et Christian jouent des situations conflictuelles de la vie en famille. Après un échange avec les spectateurs·trices, chaque situation est revisitée dans une version où la relation parent-enfant se vit dans plus de légèreté, de lien et d’harmonie.
