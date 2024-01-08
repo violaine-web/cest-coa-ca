@@ -10,7 +10,7 @@ Le site de référence en matière de VEO
 - <a href="https://www.oveo.org/">L'Observatoire de la Violence Éducative Ordinaire</a>
 
 <br>
-le site de Catherine Dumonteil Kremer :
+Le site de Catherine Dumonteil Kremer :
 - <a href="https://parentalitecreative.com">La Parentalité Créative </a>
 <br>
 Les courtes vidéos proposées par Catherine Dumonteil Kremer :
