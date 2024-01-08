@@ -3,8 +3,6 @@ layout: page
 title: Yoga du rire
 permalink: /yoga-du-rire/
 ---
-<img class="fit-picture" src="../../../assets/img/yoga-du-rire-newyear-2024.png"
-     alt="Séance Exceptionnelle Nouvelle Année">
 
 <img class="fit-picture" src="../../../assets/img/formation-yoga-du-rire-prof-f-loizeau.jpg"
      alt="Photo d'une séance de formation">
