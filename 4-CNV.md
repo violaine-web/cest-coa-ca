@@ -4,6 +4,10 @@ title: Médiation CNV
 permalink: /médiation-CNV/
 published: true
 ---
+**Evénement : participation aux semaines de la parentalité :**
+<h2><balise style="background : #FFA500 ; display : inline ;"></balise></h2>
+- **Découverte gratuite de la médiation** : le samedi 02 mars 2024 : lieu et modalités à venir
+
 
 ### Médiation CNV<sup>*</sup> Pour accompagner les familles: parents, adolescents, grands-parents, parents séparés ou en cours de séparation...
 
