@@ -9,16 +9,16 @@ permalink: /festival-non-violence-educative/
      alt="**Le programme**">
 
 
-|SAMEDI 20/04|
+|SAMEDI 20/04                                     |
 |--------|:------:|------:|
 | 14h30 - 17h  | Animation Jeux Famille  | pour tous·tes |
 | 15h30 -16h30 | Atelier marionnettes | pour les enfants de 3 à 12 ans |
-| Soirée avec la compagnie "Quelle famille ?!" |   
-| 17h30 - 19h |Théâtre-forum **Les écrans, le coucher et le désordre**  | à partir de 6 ans |
+| Soirée avec la compagnie "Quelle famille ?!"            |   
+| 17h30 - 19h |Théâtre-forum                   **Les écrans, le coucher et le désordre**  | à partir de 6 ans |
 | 20h - 21h30 | Atelier en lien avec le spectacle   |  pour les parents |
 | 20h - 21h30 | Animation pendant l'atelier   |  pour les enfants |
 
-|DIMANCHE 21/04|
+|DIMANCHE 21/04                                   |
 |--------|:------:|------:|
 | 14h30 - 17h  | Animation Jeux Famille  | pour tous·tes |
 | 15h30 -16h30 | Yoga du Rire |  pour tous·tes |
