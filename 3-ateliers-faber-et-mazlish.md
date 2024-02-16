@@ -4,6 +4,8 @@ title: Faber et Mazlish
 permalink: /ateliers-faber-et-mazlish/
 ---
 
+### Reprise des ateliers en SEPTEMBRE 2024
+<br>
 ### Prochaine session d'ateliers sur la thématique "Parler pour que les enfants écoutent et Ecouter pour que les enfants parlent"
  
 8 ateliers de 2h30 :  
