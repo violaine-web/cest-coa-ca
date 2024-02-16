@@ -6,12 +6,12 @@ permalink: /ateliers-faber-et-mazlish/
 
 ### Reprise des ateliers en SEPTEMBRE 2024
 <br>
-### Prochaine session d'ateliers sur la thématique "Parler pour que les enfants écoutent et Ecouter pour que les enfants parlent"
+### Une session de 8 séances d'ateliers sur la thématique "Parler pour que les enfants écoutent et Ecouter pour que les enfants parlent" et une session de 6 séances sur la thématique "Frères et soeurs sans rivalité"
  
-8 ateliers de 2h30 :  
-Tous les **mardis soir de 19h30 à 22h du 26 septembre au 19 décembre**<br>
+Ateliers de 2h30 :  
+Tous les **mardis soir de 19h30 à 22h**<br>
 Ou
-Tous les **vendredis matin du 29 septembre au 22 décembre**<br>
+Tous les **vendredis matin de 10h00 à 12h30**<br>
 à la **salle Ursule** sur le port du Fret<br>
 Animés par Maud de Rodellec
 <br>
@@ -27,8 +27,6 @@ Pour les inscriptions, c'est par [là](https://www.helloasso.com/associations/c-
 - Maud : 06 40 52 46 12
 - courriel : <a href="mailto:maud77@gmail.com">maud77@gmail.com</a>
 
-
-### A partir de janvier 2024 une nouvelle thématique "Frères et soeurs sans rivalité" (session de 6 séances)
 <br>
 <br>
 <!--<center><img class="fit-picture" src="../../../assets/img/affiche-faber-mazlish-maud.jpg" 
