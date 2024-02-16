@@ -12,9 +12,10 @@ permalink: /festival-non-violence-educative/
 | 14h30 - 17h  | Animation Jeux Famille  | pour tous·tes |
 | 15h30 -16h30 | Atelier marionnettes | pour les enfants de 3 à 12 ans |
 | Soirée avec la compagnie "Quelle famille ?!" |   
-| 17h30 - 19h |Théâtre-forum   | à partir de 6 ans |
+| 17h30 - 19h |Théâtre-forum **Les écrans, le coucher et le désordre**  | à partir de 6 ans |
 | 20h - 21h30 | Atelier en lien avec le spectacle   |  pour les parents |
 | 20h - 21h30 | Animation pendant l'atelier   |  pour les enfants |
+
 |DIMANCHE 21/04|
 |--------|:------:|------:|
 | 14h30 - 17h  | Animation Jeux Famille  | pour tous·tes |
@@ -22,10 +23,6 @@ permalink: /festival-non-violence-educative/
 | 17h30 - 19h | Danses en cercle avec le groupe PLACK  |  pour tous·tes (démonstration des pas !) |
 
 
-Au programme : **Théâtre-forum
-autour de la parentalité**  Thèmes retenus :  **Les écrans, le coucher et le désordre !**
-
-Spectacle interactif pour les parents - enfants bienvenus à partir de 6 ans -
 > Sur un mode humoristique, Fanny et Christian jouent des situations conflictuelles de la vie en famille. Après un échange avec les spectateurs·trices, chaque situation est revisitée dans une version où la relation parent-enfant se vit dans plus de légèreté, de lien et d’harmonie.
 
 <p class="text-center">
