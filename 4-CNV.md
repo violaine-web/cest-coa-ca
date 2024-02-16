@@ -6,7 +6,8 @@ published: true
 ---
 **Evénement : participation aux semaines de la parentalité :**
 <h2><balise style="background : #FFA500 ; display : inline ;"></balise></h2>
-- **Découverte gratuite de la médiation** : le samedi 02 mars 2024 : lieu et modalités à venir
+- **Découverte gratuite de la médiation** : <ins>le samedi 02 mars 2024</ins> dans le cadre de la journée Famille des semaines de la parentalité
+Au complexe sportif de Crozon de  h à    . 
 
 
 ### Médiation CNV<sup>*</sup> Pour accompagner les familles: parents, adolescents, grands-parents, parents séparés ou en cours de séparation...
