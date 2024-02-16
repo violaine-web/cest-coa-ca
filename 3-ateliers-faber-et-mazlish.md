@@ -6,7 +6,9 @@ permalink: /ateliers-faber-et-mazlish/
 
 ### **Reprise des ateliers en SEPTEMBRE 2024**
 <br>
-### Une session de 8 séances d'ateliers sur la thématique "Parler pour que les enfants écoutent et Ecouter pour que les enfants parlent" et une session de 6 séances sur la thématique "Frères et soeurs sans rivalité"
+### Une session de 8 séances d'ateliers sur la thématique 
+"Parler pour que les enfants écoutent et Ecouter pour que les enfants parlent" 
+et une session de 6 séances sur la thématique "Frères et soeurs sans rivalité"
  
 Ateliers de 2h30 :  
 Tous les **mardis soir de 19h30 à 22h**<br>
