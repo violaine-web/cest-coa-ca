@@ -13,6 +13,9 @@ Si vous souhaitez recevoir les informations concernant ce nouvel atelier dans le
      alt="Affiche Pédagogie par la Nature">
 
 
+<br>
+Mon école, c'est une forêt - reportage
+- <a href="<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fkonbininews%2Fvideos%2F264734061468880%2F&show_text=false&width=476&t=0" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>"> Autour du Feu - Julie Ricard</a>
 
 
 
