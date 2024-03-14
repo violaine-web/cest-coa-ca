@@ -23,7 +23,7 @@ permalink: /festival-non-violence-educative/
 |--------|:------:|------:|
 | 14h30 - 17h  | Animation Jeux Famille  | pour tous·tes |
 | 15h30 -16h30 | Yoga du Rire |  pour tous·tes |
-| 17h30 - 19h | Danses en cercle avec le groupe PLACK  |  pour tous·tes (démonstration des pas !) |
+| 17h30 - 19h | Danses en cercle |  pour tous·tes (démonstration des pas !) |
 
 
 > Sur un mode humoristique, Fanny et Christian jouent des situations conflictuelles de la vie en famille. Après un échange avec les spectateurs·trices, chaque situation est revisitée dans une version où la relation parent-enfant se vit dans plus de légèreté, de lien et d’harmonie.
@@ -49,7 +49,7 @@ permalink: /festival-non-violence-educative/
         <li><strong>Ateliers en lien avec la conférence du samedi de 11h à 13h</strong></li>
         <li><strong>Atelier de Yoga du Rire à 14h30</strong></li>
         <li><strong>Atelier de Marionnettes à 16h</strong></li>
-        <li><strong>Danses en cercle à 17h30</strong>  avec le groupe PLACK et des danseuses pour s’initier aux pas des danses traditionnelles</li>
+        <li><strong>Danses en cercle à 17h30</strong>  avec des danseuses pour s’initier aux pas des danses traditionnelles</li>
         <li><strong>Toute la journée jeux, crêpes et buvette</strong></li>
   </ul>
     <h3>À Ty Skol, St-Hernot, Crozon</h3>
