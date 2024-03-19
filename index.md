@@ -7,7 +7,8 @@ layout: home
 <h2><balise style="background : #FFA500 ; display : inline ;"></balise></h2>
 - **Yoga du Rire** : tous les mardis à 18h30 - Maison URSULE sur le port du FRET - CROZON
 
- **Prenez date ! notre événement annuel :**
+ **Prenez date ! notre événement annuel :**                                                            <right><img class="fit-picture" src="./assets/img/JNVE_24-Pastille_ronde.avif"
+                                                                                                       alt="Pastille 20 ans JNVE"></right>
 - **FNVE #3 : 20 et 21 avril 2024** - Ty Skol - St Hernot - CROZON
 
 *******
