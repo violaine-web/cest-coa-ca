@@ -6,7 +6,7 @@ permalink: /festival-non-violence-educative/
 
 ### La prochaine édition : Festival de la Non-Violence Éducative #3 : 20 et 21 avril 2024 - Ty Skol - CROZON
 
-[Demandez le programme](assets/img/verso flyer 2024.jpg)
+[Demandez le programme](assets/img/verso flyer 2024-v2.jpg)
 [Et l'affiche](assets/img/Affiche & recto flyer avec lien numérique.jpg)
 
 
@@ -17,7 +17,7 @@ permalink: /festival-non-violence-educative/
 | Soirée avec la compagnie "Quelle famille ?!"            |   
 | 17h30 - 19h |Théâtre-forum                   **Les écrans, le coucher et le désordre**  | à partir de 6 ans |
 | 20h - 21h30 | Atelier en lien avec le spectacle   |  pour les parents |
-| 20h - 21h30 | Animation pendant l'atelier   |  pour les enfants |
+|à partir de 17h30| Relais enfants assuré par 2 jeunes adultes formés   |  pour les enfants |
 
 |DIMANCHE 21/04                                   |
 |--------|:------:|------:|
