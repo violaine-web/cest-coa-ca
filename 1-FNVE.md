@@ -6,8 +6,8 @@ permalink: /festival-non-violence-educative/
 Notre festival annuel : le festival de la non-violence éducative
 ### La prochaine édition :  20 et 21 avril 2024 - Ty Skol - CROZON
 
-[Demandez le programme](assets/img/verso flyer 2024.png)
-[Et l'affiche](assets/img/affiche définitive pour numérique.png)
+[Voir le programme](assets/img/verso flyer 2024.png)
+[et l'affiche (à diffuser sans modération !)](assets/img/affiche définitive pour numérique.png)
 
 
 |SAMEDI 20/04                                     |
