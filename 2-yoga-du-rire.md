@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Yoga du rire - Animé par Anne, professeure formée par l'Institut français de Yoga du rire & Santé.
+title: Yoga du rire 
 permalink: /yoga-du-rire/
 ---
 
 <img class="fit-picture" src="../../../assets/img/formation-yoga-du-rire-prof-f-loizeau.jpg"
      alt="Photo d'une séance de formation">
+Animé par Anne, professeure formée par l'Institut français de Yoga du rire & Santé.
 ## Rendez-vous tous les mardis de 18h30 à 19h30 à la Maison Ursule, sur le port du Fret
 <br>
 <center><img class="fit-picture" src="../../../assets/img/Bienfaits-du-rire-800x450.jpg"
