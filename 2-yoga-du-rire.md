@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yoga du rire
-permalink: /yoga-du-rire/
+permalink: /yoga-du-rire/ Animé par Anne, professeure formée par l'Institut français de Yoga du rire & Santé.
 ---
 
 <img class="fit-picture" src="../../../assets/img/formation-yoga-du-rire-prof-f-loizeau.jpg"
