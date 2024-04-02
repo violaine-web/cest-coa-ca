@@ -15,7 +15,7 @@ Notre festival annuel : le festival de la non-violence éducative
 | 14h30 - 17h  | Animation Jeux Famille  | pour tous·tes |
 | 15h30 -16h30 | Atelier marionnettes | pour les enfants de 3 à 12 ans |
 | Soirée avec la compagnie "Quelle famille ?!"            |   
-| 17h30 - 19h |Théâtre-forum                   **Les écrans, le coucher et le désordre**  | à partir de 6 ans |
+| 17h30 - 19h |Spectacle interactif                   **Les écrans, le coucher et le désordre**  | à partir de 6 ans |
 | 20h - 21h30 | Atelier en lien avec le spectacle   |  pour les parents |
 |à partir de 17h30| Relais enfants assuré par 2 jeunes adultes formés   |  pour les enfants |
 
