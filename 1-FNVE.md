@@ -17,7 +17,7 @@ Notre festival annuel : le festival de la non-violence éducative
 | Soirée avec la compagnie "Quelle famille ?!"            |   
 | 17h30 - 19h |Spectacle interactif <br />**Les écrans, le coucher et le désordre**  | à partir de 6 ans |
 | 20h - 21h30 | Atelier en lien avec le spectacle   |  pour les parents |
-|à partir de 17h30| Relais enfants assuré par 2 jeunes adultes formés   |  pour les enfants |
+|à partir de 17h30| Relais enfants assuré par 2 jeunes adultes formées   |  pour les enfants |
 
 |DIMANCHE 21/04                                   |
 |--------|:------:|------:|
