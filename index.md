@@ -6,6 +6,7 @@ layout: home
 **En ce moment :**
 <h2><balise style="background : #FFA500 ; display : inline ;"></balise></h2>
 - **Yoga du Rire** : tous les mardis à 18h30 - Maison URSULE sur le port du FRET - CROZON
+ - **Modification de planning** : Dernière séance le dimanche 21/04 à TY Skol, reprise le mardi 28 mai à la maison Ursule
 
  **Notre événement annuel approche !! Le Festival de la Non-Violence Educative #3 :** 
  - **les 20 et 21 avril 2024** à Ty Skol - St Hernot/CROZON 
@@ -17,7 +18,7 @@ layout: home
      alt="Photo de l'équipe"></center>
      
 Objet de l'association : **C'est Coaça ?**<br>
-Accompagner les citoyen·nes vers une société libérée de toutes formes de violence.<br>
+Accompagner les citoyen·nes vers une société libérée de toutes formes de violence et promouvoir la santé physique et psychoaffective..<br>
 Informer sur les violences éducatives ordinaires (VEO).<br>
 Proposer des espaces de partage et d'expérimentation afin de développer des relations sans enjeu de domination et ainsi un apprentissage de la paix.<br>
 
