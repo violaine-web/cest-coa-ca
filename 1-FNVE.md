@@ -1,6 +1,6 @@
 ---
 layout: page
-title : FNVE
+title : FESTIVAL
 permalink: /festival-non-violence-educative/
 ---
 Notre festival annuel : le festival de la non-violence éducative
