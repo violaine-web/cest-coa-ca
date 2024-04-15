@@ -5,8 +5,11 @@ permalink: /dans-les-bois/
 published: true
 ---
 
-### Ouverture d'un atelier bi-mensuel parent-enfant prévue au printemps 2024
+### La forest school ouvrira à la rentrée 2024
  
+Selon la demande nous pourrons accueillir des écoles, des crêches ou des assistantes maternelles en semaine, sur les périodes scolaires
+mais aussi des familles sur les périodes de vacances ou les week-ends.
+
 Si vous souhaitez recevoir les informations concernant ce nouvel atelier dans les bois merci de nous envoyer un message via la page [contact](https://cest-coaca.fr/contact/).
  
 <img class="fit-picture" src="../../../assets/img/affiche-ppn.jpg"
