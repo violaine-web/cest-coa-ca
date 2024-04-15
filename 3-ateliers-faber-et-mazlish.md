@@ -15,7 +15,7 @@ Tous les **mardis soir de 19h30 à 22h**<br>
 Ou
 Tous les **vendredis matin de 10h00 à 12h30**<br>
 à la **salle Ursule** sur le port du Fret<br>
-Animés par Maud de Rodellec
+Animés par Maud de Rodellec - Infirmière puéricultrice formée à la méthode.
 <br>
 <br>
 Pour les inscriptions, c'est par [là](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/evenements/ateliers-faber-et-mazlish-mardi-soir/widget-vignette) !
