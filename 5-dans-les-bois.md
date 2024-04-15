@@ -7,7 +7,7 @@ published: true
 
 ### La forest school ouvrira à la rentrée 2024
  
-Selon la demande nous pourrons accueillir des écoles, des crêches ou des assistantes maternelles en semaine, sur les périodes scolaires
+Selon la demande nous pourrons accueillir des écoles, des crèches ou des assistantes maternelles en semaine, sur les périodes scolaires
 mais aussi des familles sur les périodes de vacances ou les week-ends.
 
 Si vous souhaitez recevoir les informations concernant ce nouvel atelier dans les bois merci de nous envoyer un message via la page [contact](https://cest-coaca.fr/contact/).
