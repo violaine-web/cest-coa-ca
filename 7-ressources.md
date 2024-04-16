@@ -22,9 +22,10 @@ Les courtes vidéos proposées par Catherine Dumonteil Kremer :
 - <a href="https://vimeo.com/455522926">La jungle urbaine</a>
 
 <br>
-Des outils graphiques pour mieux comprendre la CNV, les émotions... :
+Des outils graphiques pour mieux comprendre la CNV, les émotions, l'écoute empathique ... :
 - <a href="https://apprentie-girafe.com">Le blog de l'apprentie girafe</a>
 - <a href="https://art-mella.com/site">Conscience quantique</a> 
+- <a href="https://vimeo.com/435737796">L'écoute empathique</a>
 
 <br>
 La conférence gesticulée présentée à l'occasion du 1er festival en 2022 !
