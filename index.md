@@ -6,12 +6,7 @@ layout: home
 **En ce moment :**
 <h2><balise style="background : #FFA500 ; display : inline ;"></balise></h2>
 - **Yoga du Rire** : tous les mardis à 18h30 - Maison URSULE sur le port du FRET - CROZON
- - **Modification de planning** : Dernière séance le dimanche 21/04 à TY Skol, reprise le mardi 28 mai à la maison Ursule
-
- **Notre événement annuel approche !! Le Festival de la Non-Violence Educative #3 :** 
- - **les 20 et 21 avril 2024** à Ty Skol - St Hernot/CROZON 
- <right><img class="fit-picture" src="./assets/img/JNVE_24-Pastille_ronde.avif"
- alt="Pastille 20 ans JNVE"></right>
+ - Modification de planning : **Reprise le mardi 28 mai**
 
 *******
 <center><img class="fit-picture" src="./assets/img/page-accueil-site.jpg"
