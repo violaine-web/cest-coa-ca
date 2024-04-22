@@ -6,7 +6,7 @@ layout: home
 **En ce moment :**
 <h2><balise style="background : #FFA500 ; display : inline ;"></balise></h2>
 - **Yoga du Rire** : tous les mardis à 18h30 - Maison URSULE sur le port du FRET - CROZON
- - Modification de planning : **Reprise le mardi 28 mai**
+Modification de planning : **Reprise le mardi 28 mai**
 
 *******
 <center><img class="fit-picture" src="./assets/img/page-accueil-site.jpg"
