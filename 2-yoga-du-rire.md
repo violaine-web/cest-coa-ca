@@ -4,7 +4,7 @@ title: Yoga du rire
 permalink: /yoga-du-rire/
 ---
 
-<img class="fit-picture" src="../../../assets/img/site-web.jpg"
+<img class="fit-picture" src="../../../assets/img/site web yoga du rire.jpg"
      alt="Photo d'une séance de formation">
 <h4>Animé par Anne, professeure formée par l'Institut français de Yoga du rire & Santé.</h4>
 **Reprise en septembre 2024**
