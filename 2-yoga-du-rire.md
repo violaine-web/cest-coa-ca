@@ -7,7 +7,7 @@ permalink: /yoga-du-rire/
 Rendez-vous donc le jeudi 12 septembre 2024 à la maison Ursule du Fret pour la 1ère d'une longue série de rires !**
 
 
-<img class="fit-picture" src="../../../assets/img/carte_membre.jpg"
+<img class="fit-picture" src="../../../assets/img/carte_membre.png"
      alt="carte de membre de l'observatoire de yoga du rire ">
 
 <br>
