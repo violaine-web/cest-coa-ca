@@ -4,16 +4,15 @@ title: Faber et Mazlish
 permalink: /ateliers-faber-et-mazlish/
 ---
 
-### **Reprise des ateliers en SEPTEMBRE 2024**
+### **Reprise des ateliers le 08 novembre 2024**
 <br>
 ### Une session de 8 séances d'ateliers sur la thématique 
 "Parler pour que les enfants écoutent et Ecouter pour que les enfants parlent" 
+
 et une session de 6 séances sur la thématique "Frères et soeurs sans rivalité"
  
 Ateliers de 2h30 :  
-Tous les **mardis soir de 19h30 à 22h**<br>
-Ou
-Tous les **vendredis matin de 10h00 à 12h30**<br>
+Le **vendredis matin de 10h00 à 12h30**, 1 semaine/2<br>
 à la **salle Ursule** sur le port du Fret<br>
 Animés par Maud de Rodellec - Infirmière puéricultrice formée à la méthode.
 <br>
