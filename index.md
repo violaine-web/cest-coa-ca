@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+**Dernières infos :**
 ### **Retrouvez-nous au forum des associations de Crozon le samedi 07 septembre 2024 pour vous renseigner et vous inscrire aux différentes activités !**
 
 
