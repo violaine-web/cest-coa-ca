@@ -7,7 +7,7 @@ permalink: /yoga-du-rire/
 <img class="fit-picture" src="../../../assets/img/site web yoga du rire.jpg"
      alt="Photo d'une séance de formation">
 <h4>Animé par Anne, professeure formée par l'Institut français de Yoga du rire & Santé.</h4>
-**Reprise en septembre 2024**
+**Pour l'année 2024-2025 nous essayons le créneau du jeudi soir ! Rendez-vous donc le jeudi 12 septembre 2024 à la maison Ursule du Fret pour la 1ère d'une longue série de rires !**
 <br>
 <center><img class="fit-picture" src="../../../assets/img/Bienfaits-du-rire-800x450.jpg"
      alt="Bienfaits du Yoga du Rire"></center>
