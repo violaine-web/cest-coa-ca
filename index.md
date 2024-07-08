@@ -10,7 +10,7 @@ layout: home
 Objet de l'association : **C'est Coaça ?**<br>
 L’association a pour but d’accompagner les citoyens et les citoyennes vers une société libérée de toutes formes de violence, en particulier des violences éducatives ordinaires, de promouvoir la santé physique et psychoaffective de chacun·e.<br>
 Toutes les actions menées par l'association se feront dans une démarche respectueuse du vivant et en conscience de l'impact sur l'environnement.<br>
-Ainsi C’est COACA ? se veut être une association évoluant dans les domaines de l’éducation, de la santé et de l’environnement.<br>
+Ainsi C’est COACA ? se veut être une association évoluant dans les domaines de l’éducation, de la santé, du bien-être et de l’environnement.<br>
 
 *******
 Le mouvement, les sensations corporelles, l’écoute et le dialogue sont la base de notre travail sur les relations, à soi, aux autres et au monde.<br>
