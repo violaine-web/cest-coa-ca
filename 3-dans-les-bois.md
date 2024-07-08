@@ -15,7 +15,7 @@ Si vous souhaitez recevoir les informations concernant ce nouvel atelier dans le
 <img class="fit-picture" src="../../../assets/img/flyer v3.jpg"
      alt="Flyer Forest school C'est COAçA ?">
 
-<img class="fit-picture" src="../../../assets/img/flyer v3(2).jpg"
+<img class="fit-picture" src="../../../assets/img/flyer v3 (2).jpg"
      alt="Flyer Forest school C'est COAçA ?">
 
 
