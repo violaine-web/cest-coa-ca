@@ -3,6 +3,8 @@ layout: page
 title: Faber et Mazlish
 permalink: /ateliers-faber-et-mazlish/
 ---
+<img class="fit-picture" src="../../../assets/img/affiche-faber-mazlish-maud.jpg"
+     alt="Affiche Ateliers Faber et Mazlish">
 
 ### **Reprise des ateliers le 08 novembre 2024**
 
