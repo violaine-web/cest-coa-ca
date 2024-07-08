@@ -14,7 +14,7 @@ Rendez-vous donc le jeudi 12 septembre 2024 à la maison Ursule du Fret pour la 
 <center><img class="fit-picture" src="../../../assets/img/Bienfaits-du-rire-800x450.jpg"
      alt="Bienfaits du Yoga du Rire"></center>
 
-<h4>Venir en tenue confortable et si possible avec un tapis</h4>
+<h4>Venir en tenue confortable</h4>
 <br>
 **Tarifs**
 
