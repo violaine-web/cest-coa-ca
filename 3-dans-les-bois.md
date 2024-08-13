@@ -7,7 +7,8 @@ published: true
 
 ### La forest school ouvrira à la rentrée 2024
 
-**Pour cette première année j'aurai le plaisir d'accueillir les familles ! Le dimanche, de 14h à 17h, toutes les 2 semaines**
+**Pour cette première année j'aurai le plaisir d'accueillir les familles !<br>
+Le dimanche, de 14h à 17h, toutes les 2 semaines**
 
 Début des ateliers le dimanche 15 septembre 2024<br>
 Inscription à l'année (20 séances)<br>
