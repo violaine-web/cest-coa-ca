@@ -7,11 +7,18 @@ published: true
 
 ### La forest school ouvrira à la rentrée 2024
 
+Pour cette première année j'aurai le plaisir d'accueillir dans les bois les familles ! ### Le dimanche, de 14h à 17h, toutes les 2 semaines
+
+Début des ateliers le dimanche 15 septembre 2024
+Inscription à l'année (20 séances)
+Tarification au quotient familial et dégressif pour plusieurs enfants. 
+
+
 <!-- 
 Selon la demande nous pourrons accueillir des écoles, des crèches ou des assistantes maternelles en semaine, sur les périodes scolaires
 mais aussi des familles sur les périodes de vacances ou les week-ends.
 -->
-Si vous souhaitez recevoir les informations concernant ce nouvel atelier dans les bois merci de nous envoyer un message via la page [contact](https://cest-coaca.fr/contact/).
+Pour plus d'informations concernant ce nouvel atelier dans les bois merci de nous envoyer un message via la page [contact](https://cest-coaca.fr/contact/).
  
 <img class="fit-picture" src="../../../assets/img/flyer v3.jpg"
      alt="Flyer Forest school C'est COAçA ?">
