@@ -12,7 +12,7 @@ Le dimanche, de 14h à 17h, toutes les 2 semaines**
 
 Début des ateliers le dimanche 15 septembre 2024<br>
 Inscription à l'année (20 séances)<br>
-Tarification au quotient familial et dégressif pour plusieurs enfants. 
+Tarification au quotient familial et dégressive selon le nombre d'enfants dans la famille. 
 
 
 <!-- 
