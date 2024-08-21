@@ -11,7 +11,7 @@ published: true
 Le dimanche, de 14h à 17h, toutes les 2 semaines**
 
   
-Venez découvrir cet atelier le dimanche 15 septembre 2024 *places limitées inscription obligatoire*<br>
+Venez découvrir cet atelier le dimanche 15 septembre 2024 *Attention, le nombre de places est limité = inscription obligatoire*<br>
 Inscription à l'année (20 séances)<br>
 Tarification au quotient familial.
 
