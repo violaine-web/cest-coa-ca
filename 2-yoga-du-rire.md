@@ -16,7 +16,7 @@ Rendez-vous donc le jeudi 12 septembre 2024 à la maison Ursule du Fret pour la 
 
 <h4>Venir en tenue confortable</h4>
 <br>
-**Tarifs**
+**Tarifs** LA PREMIERE SEANCE VOUS EST OFFERTE ! 
 
 | Formules | Adulte | Enfant |
 |--------|:------:|------:|
