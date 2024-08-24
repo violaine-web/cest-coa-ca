@@ -12,6 +12,7 @@ Pour plus d'informations, contactez-nous par mail : <a href="mailto:contact@cest
 
 
 **Mentions légales**<br>
+
 **Siège social**<br>
 Association C'est COACA ?<br>
 33 bis rue de Menez Gorre<br>
@@ -22,7 +23,9 @@ Présidente : Mme Anne RAFFRAY<br>
 Numéro d'immatriculation de l'association (SIRET) : 908 307 614 00010<br>
 
 **Hébergeur**<br> 
-OVH SAS<br>  
-2 rue Kellermann<br>
-59100 Roubaix<br>
+SAS OVH - https://www.ovh.com/<br> 
+2 rue Kellermann<br> 
+BP 80157<br> 
+59100 Roubaix<br> 
+
 immatriculée au RCS de Lille Métropole sous le numéro 537 407 926
