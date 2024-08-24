@@ -11,10 +11,12 @@ Pour plus d'informations, contactez-nous par mail : <a href="mailto:contact@cest
 **Médiation CNV :** Mélanie 07 81 18 85 31<br>
 
 
+
+
 **Mentions légales**<br>
 
 **Siège social**<br>
-Association C'est COACA ?<br>
+Association C'est COACA ? C'est de la Culture d'Ocytocine pour Accorder le Coeur et les Actes !<br>
 33 bis rue de Menez Gorre<br>
 29160 CROZON<br>
 **Représentante légale**<br>
