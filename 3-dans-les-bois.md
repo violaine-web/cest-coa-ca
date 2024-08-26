@@ -23,7 +23,7 @@ mais aussi des familles sur les périodes de vacances ou les week-ends.
 -->
 Pour plus d'informations concernant ce nouvel atelier dans les bois merci de nous envoyer un message via la page [contact](https://cest-coaca.fr/contact/).
  
-<img class="fit-picture" src="../../../assets/img/flyer web août 2024 page1.jpg"
+<img class="fit-picture" src="../../../assets/img/flyer atelier famille web.jpg"
      alt="Flyer Forest school C'est COAçA ?">
 
 <img class="fit-picture" src="../../../assets/img/flyer web août 2024 page2.jpg"
