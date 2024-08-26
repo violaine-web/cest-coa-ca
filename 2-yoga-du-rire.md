@@ -3,8 +3,9 @@ layout: page
 title: Yoga du rire 
 permalink: /yoga-du-rire/
 ---
-Pour l'année 2024-2025 nous changeons de créneau : ce sera désormais 
-<p align="center">### **le jeudi soir de 18 à 19h**</p>
+
+### Pour l'année 2024-2025 nous changeons de créneau : 
+<p align="center">**le jeudi soir de 18 à 19h**</p>
 Rendez-vous donc le jeudi 12 septembre 2024 à la maison Ursule du Fret pour la 1ère d'une longue série de rires !
 
 
