@@ -13,8 +13,13 @@ Le dimanche, de 14h à 17h, toutes les 2 semaines**
   
 Venez découvrir cet atelier le dimanche 15 septembre 2024 <br>
 *Attention, le nombre de places est limité = inscription obligatoire*<br>
+
 Inscription à l'année (20 séances)<br>
-Tarification au quotient familial.
+Tarification au quotient familial :<br>
+< 650 : 323€
+650 > QF < 1350 : 380€
+> 1350 : 437€
+payable en 3 fois (septembre-décembre-mars)
 
 
 <!-- 
