@@ -16,9 +16,9 @@ Venez découvrir cet atelier le dimanche 15 septembre 2024 <br>
 
 Inscription à l'année (20 séances)<br>
 Tarification au quotient familial :<br>
-< 650 : 323€
-650 > QF < 1350 : 380€
-> 1350 : 437€
+< 650 : 323€<br>
+650 > QF < 1350 : 380€<br>
+> 1350 : 437€<br>
 payable en 3 fois (septembre-décembre-mars)
 
 
