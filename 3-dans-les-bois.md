@@ -21,7 +21,7 @@ Tarification au quotient familial :<br>
  QF > 1350 : 437€<br>
 *payable en 3 fois (septembre-décembre-mars)*
 
-Inscrivez-vous [en ligne] <iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/atelier-familles-dans-les-bois/widget" style="width: 100%; height: 750px; border: none;"></iframe>
+Inscrivez-vous [en ligne]"https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/atelier-familles-dans-les-bois/widget"
 
 <!-- 
 Selon la demande nous pourrons accueillir des écoles, des crèches ou des assistantes maternelles en semaine, sur les périodes scolaires
