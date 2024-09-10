@@ -1,8 +1,8 @@
 ---
 layout: home
 ---
-**Dernières infos :**
-### **Retrouvez-nous au forum des associations de Crozon le samedi 07 septembre 2024 pour vous renseigner et vous inscrire aux différentes activités !**
+**Nos rendez-vous sur inscription:**
+### **Jeudi 12/09 - 18h : YOGA DU RIRE ---- Dimanche 15/09 14h et 16h : FAMILLES DANS LES BOIS ---- Début novembre : ATELIERS DE PARENTS FABER & MAZLISH**
 
 
 *******
