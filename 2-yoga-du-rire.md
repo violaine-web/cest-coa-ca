@@ -24,10 +24,10 @@ Rendez-vous donc le jeudi 12 septembre 2024 à la maison Ursule du Fret pour la 
 | Abonnement annuel | 175 €   |  105 € |
 | Abonnement bimestriel | |  |
 | Sept-oct (6 séances) | 42 €   |  18 € |
-| Nov-déc (7 séances) | 49 €   |  21 € |
-| Jan-fév (7 séances) | 49 €   |  21 € |
+| Nov-déc (6 séances) | 42 €   |  18 € |
+| Jan-fév (5 séances) | 35 €   |  15 € |
 | Mars-avril (6 séances) | 42 €   |  18 € |
-| Mai-juin (9 séances) | 63 €   |  27 € |
+| Mai-juin (10 séances) | 70 €   |  30 € |
 | Carte de 10 séances | 100 €   |  30 € |
 | Séance ponctuelle | 12 €   |  5 € |
 
