@@ -11,7 +11,7 @@ published: true
 Le dimanche, de 14h à 17h, toutes les 2 semaines**
 
   
-Venez découvrir cet atelier le dimanche 15 septembre 2024 <br>
+Votre premier atelier est un essai, sans engagement, me contacter pour plus de détails ! <br>
 *Attention, le nombre de places est limité = inscription obligatoire*<br>
 
 Inscription à l'année (20 séances)<br>
@@ -20,6 +20,7 @@ Tarification au quotient familial :<br>
  650 > QF < 1350 : 380€<br>
  QF > 1350 : 437€<br>
 *payable en 3 fois (septembre-décembre-mars)*
+
 
 Inscrivez-vous [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/atelier-familles-dans-les-bois/widget-vignette)
 
