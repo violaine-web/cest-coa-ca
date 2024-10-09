@@ -17,7 +17,7 @@ et une session de 6 séances sur la thématique
 Ateliers de 2h30 :  
 Le **vendredis matin de 10h00 à 12h30**, 1 semaine/2<br>
 à la **salle Ursule** sur le port du Fret<br>
-*Autre créneau possible à définir avec les participant·es selon leur disponibilité*
+*Autre créneau possible à définir avec les participant·es selon leur disponibilité*<br>
 Animés par Maud de Rodellec - Infirmière puéricultrice formée à la méthode.
 <br>
 <br>
