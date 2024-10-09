@@ -5,9 +5,9 @@ permalink: /dans-les-bois/
 published: true
 ---
 
-### La forest school ouvrira à la rentrée 2024
+### La forest school a ouvert à la rentrée 2024
 
-**Pour cette première année j'aurai le plaisir d'accueillir les familles (enfants de tous âges bienvenus) !<br>
+**Pour cette première année j'ai le plaisir d'accueillir les familles (enfants de tous âges bienvenus) !<br>
 Le dimanche, de 14h à 17h, toutes les 2 semaines**
 
   
