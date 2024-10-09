@@ -36,8 +36,9 @@ Edition 2024 :
         <iframe width="560" height="315" src="https://www.youtube.com/embed/JdONQSByA5k?si=WgZE_bsCvfCN7HYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <br /><a href="https://www.youtube.com/watch?v=JdONQSByA5k">voir sur Youtube</a>.</p>
 
+<!--
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/je-soutiens-le-festival-c-est-coaca/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
-
+-->
 <!--
 **Festival de la Non-Violence Éducative #2 : 29 et 30 avril 2023 - Ty Skol - CROZON**
 <br>
