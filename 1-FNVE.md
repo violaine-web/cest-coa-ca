@@ -3,7 +3,10 @@ layout: page
 title : Festival
 permalink: /festival-non-violence-educative/
 ---
-Notre festival annuel : le festival de la non-violence éducative
+
+A l'occasion de LA JOURNEE NATIONALE DE LA NON-VIOLENCE EDUCATIVE qui a lieu le 30 AVRIL nous avons organisé depuis 3 ans 
+### le festival de la non-violence éducative
+<!--
 ### La prochaine édition :  20 et 21 avril 2024 - Ty Skol - CROZON
 
 [Voir le programme](assets/img/verso flyer 2024.png)
@@ -27,7 +30,8 @@ Notre festival annuel : le festival de la non-violence éducative
 
 
 > Sur un mode humoristique, Fanny et Christian jouent des situations conflictuelles de la vie en famille. Après un échange avec les spectateurs·trices, chaque situation est revisitée dans une version où la relation parent-enfant se vit dans plus de légèreté, de lien et d’harmonie.
-
+-->
+Edition 2024 : 
 <p class="text-center">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/JdONQSByA5k?si=WgZE_bsCvfCN7HYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <br /><a href="https://www.youtube.com/watch?v=JdONQSByA5k">voir sur Youtube</a>.</p>
