@@ -4,8 +4,8 @@ title : Festival
 permalink: /festival-non-violence-educative/
 ---
 
-A l'occasion de LA JOURNEE NATIONALE DE LA NON-VIOLENCE EDUCATIVE qui a lieu le 30 AVRIL nous avons organisé depuis 3 ans 
-### le festival de la non-violence éducative
+A l'occasion de **La journée nationale de la non-violence éducative** qui a lieu le 30 AVRIL nous avons organisé depuis 3 ans 
+**Le festival de la non-violence éducative**
 <!--
 ### La prochaine édition :  20 et 21 avril 2024 - Ty Skol - CROZON
 
