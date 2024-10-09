@@ -2,7 +2,7 @@
 layout: home
 ---
 **Nos rendez-vous sur inscription:**
-### **Jeudi 26/09 - 18h : YOGA DU RIRE -- Dimanche 29/09 - 14h et 16h : FAMILLES DANS LES BOIS -- Début novembre : ATELIERS DE PARENTS FABER & MAZLISH**
+### **Jeudi 10/10 - 18h : YOGA DU RIRE -- Dimanche 13/10 - 14h : FAMILLES DANS LES BOIS -- Début novembre : ATELIERS DE PARENTS FABER & MAZLISH**
 
 
 *******
