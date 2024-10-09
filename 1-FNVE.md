@@ -39,6 +39,7 @@ Edition 2024 :
 <!--
 <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/je-soutiens-le-festival-c-est-coaca/widget-vignette" style="width: 350px; height: 450px; border: none;"></iframe>
 -->
+
 <!--
 **Festival de la Non-Violence Éducative #2 : 29 et 30 avril 2023 - Ty Skol - CROZON**
 <br>
