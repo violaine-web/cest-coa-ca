@@ -4,7 +4,7 @@ title: Yoga du rire
 permalink: /yoga-du-rire/
 ---
 
-### Pour l'année 2024-2025 nous changeons de créneau : le jeudi soir de 18 à 19h
+### Deux séances hebdomadaires : Une le jeudi soir de 18 à 19h au Fret et une autre le vendredi matin de 9h30 à 10h30 à Lanvéoc (séance assise)
 <!--Rendez-vous donc le jeudi 12 septembre 2024 à la maison Ursule du Fret pour la 1ère d'une longue série de rires !
 -->
 
