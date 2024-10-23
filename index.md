@@ -5,8 +5,8 @@ layout: home
 Ouverture d'un nouvel atelier de Yoga du Rire, assis, tous les vendredis de 9h30 à 10h30 à la maison des associations de Lanvéoc ! 1ère date **vendredi 08/11/24**.
 
 **Nos rendez-vous sur inscription** :<br>
-Jeudi 10/10 - 18h : YOGA DU RIRE<br>
-Dimanche 13/10 - 14h : FAMILLES DANS LES BOIS<br>
+Jeudi 24/10 - 18h : YOGA DU RIRE<br>
+Dimanche 27/10 - 14h : FAMILLES DANS LES BOIS<br>
 Vendredi 08/11 - 9h30 : YOGA DU RIRE ASSIS<br>
 Début novembre : ATELIERS DE PARENTS FABER & MAZLISH
 
