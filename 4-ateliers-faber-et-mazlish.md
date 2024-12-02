@@ -6,7 +6,7 @@ permalink: /ateliers-faber-et-mazlish/
 <img class="fit-picture" src="../../../assets/img/affiche-faber-mazlish-maud.jpg"
      alt="Affiche Ateliers Faber et Mazlish">
 
-### **Reprise des ateliers le 08 novembre 2024**
+### **Reprise des ateliers en 2025**
 
 Une session de 8 séances d'ateliers sur la thématique 
 <br>**Parler pour que les enfants écoutent et Ecouter pour que les enfants parlent**
