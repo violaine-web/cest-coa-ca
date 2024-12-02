@@ -15,9 +15,11 @@ Votre premier atelier est un essai, sans engagement, [me contacter](https://cest
 
 Inscription à l'année (20 séances) - Inscriptions en cours d'année possible si places disponibles<br>
 Tarification au quotient familial  - Et au prorata si inscription en cours d'année<br>
- QF < 650 : 323€<br>
- 650 > QF < 1350 : 380€<br>
- QF > 1350 : 437€<br>
+*Tarif pour 1 enfant <u>et<u>  1 ou 2 adultes*
+
+ QF < 650 : 323€ - (ou 17€ x le nombre de séances restantes jusqu'à juillet)<br>
+ 650 > QF < 1350 : 380€ - (ou 20€ x le nombre de séances restantes jusqu'à juillet)<br>
+ QF > 1350 : 437€ - (ou 23€ x le nombre de séances restantes jusqu'à juillet)<br>
 *payable en 3 fois (septembre-décembre-mars)*
 
 
