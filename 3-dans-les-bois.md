@@ -11,11 +11,10 @@ published: true
 Le dimanche, de 14h à 17h, toutes les 2 semaines**
 
   
-Votre premier atelier est un essai, sans engagement, me contacter pour plus de détails ! <br>
-*Attention, le nombre de places est limité = inscription obligatoire*<br>
+Votre premier atelier est un essai, sans engagement, [me contacter](https://cest-coaca.fr/contact/) pour plus de détails ! <br>
 
-Inscription à l'année (20 séances)<br>
-Tarification au quotient familial :<br>
+Inscription à l'année (20 séances) - Inscriptions en cours d'année possible si places disponibles<br>
+Tarification au quotient familial  - Et au prorata si inscription en cours d'année<br>
  QF < 650 : 323€<br>
  650 > QF < 1350 : 380€<br>
  QF > 1350 : 437€<br>
