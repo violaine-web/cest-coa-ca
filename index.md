@@ -2,13 +2,12 @@
 layout: home
 ---
 **Nouveauté:**
-Ouverture d'un nouvel atelier de Yoga du Rire, assis, tous les vendredis de 9h30 à 10h30 à la maison des associations de Lanvéoc ! 1ère date **vendredi 08/11/24**.
-
+**YOGA DU RIRE SPECIAL NOUVELLE ANNEE : DIMANCHE 05 janvier 2025 à 11H à la Maison pour Tous de Tal Ar Groas**
 **Nos rendez-vous sur inscription** :<br>
-Jeudi 24/10 - 18h : YOGA DU RIRE<br>
-Dimanche 27/10 - 14h : FAMILLES DANS LES BOIS<br>
-Vendredi 08/11 - 9h30 : YOGA DU RIRE ASSIS<br>
-Début novembre : ATELIERS DE PARENTS FABER & MAZLISH
+Jeudi 05/12 - 18h : YOGA DU RIRE<br>
+Dimanche 08/12 - 14h : FAMILLES DANS LES BOIS<br>
+Vendredi 06/12 - 9h30 : YOGA DU RIRE ASSIS<br>
+
 
 
 *******
