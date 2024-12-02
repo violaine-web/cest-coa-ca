@@ -1,8 +1,8 @@
 ---
 layout: home
 ---
-**Nouveauté:**
-**YOGA DU RIRE SPECIAL NOUVELLE ANNEE : DIMANCHE 05 janvier 2025 à 11H à la Maison pour Tous de Tal Ar Groas**
+**Nouveauté:**<br>
+**YOGA DU RIRE SPECIAL NOUVELLE ANNEE : DIMANCHE 05 janvier 2025 à 11H à la Maison pour Tous de Tal Ar Groas**<br>
 **Nos rendez-vous sur inscription** :<br>
 Jeudi 05/12 - 18h : YOGA DU RIRE<br>
 Dimanche 08/12 - 14h : FAMILLES DANS LES BOIS<br>
