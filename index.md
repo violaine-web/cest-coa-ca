@@ -2,12 +2,15 @@
 layout: home
 ---
 **Nouveauté:**<br>
-**YOGA DU RIRE SPECIAL NOUVELLE ANNEE : DIMANCHE 05 janvier 2025 à 11H à la Maison pour Tous de Tal Ar Groas**<br>
+**YOGA DU RIRE SPECIAL NOUVELLE ANNEE : DIMANCHE 05 janvier 2025 à 11H à la Maison pour Tous de Tal Ar Groas (Crozon)**<br>
 **Nos rendez-vous sur inscription** :<br>
-Jeudi 05/12 - 18h : YOGA DU RIRE<br>
-Dimanche 08/12 - 14h : FAMILLES DANS LES BOIS<br>
-Vendredi 06/12 - 9h30 : YOGA DU RIRE ASSIS<br>
+Jeudi 12/12 - 18h : YOGA DU RIRE<br>
+Vendredi 20/12 - 9h30 : YOGA DU RIRE ASSIS<br>
+Dimanche 22/12 - 14h : FAMILLES DANS LES BOIS<br>
 
+Une idée pour faire plaisir à Noël ? Contactez-moi pour offrir ce bon cadeau !
+<center><img class="fit-picture" src="./assets/img/bon cadeau specimen.jpg"
+     alt="bon cadeau yoga du rire"></center>
 
 
 *******
