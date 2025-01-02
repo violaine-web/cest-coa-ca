@@ -17,7 +17,7 @@ Dimanche 19/01 - 14h : FAMILLES DANS LES BOIS<br></center>
 <center><img class="fit-picture" src="./assets/img/page-accueil-site.jpg"
      alt="Photo de l'équipe"></center>
      
-Objet de l'association : **C'est Coaça ?**<br>
+Objet de l'association : **C'est COAÇA ?**<br>
 L’association a pour but d’accompagner les citoyens et les citoyennes vers une société libérée de toutes formes de violence, en particulier des violences éducatives ordinaires, de promouvoir la santé physique et psychoaffective de chacun·e.<br>
 Toutes les actions menées par l'association se feront dans une démarche respectueuse du vivant et en conscience de l'impact sur l'environnement.<br>
 Ainsi C’est COACA ? se veut être une association évoluant dans les domaines de l’éducation, de la santé, du bien-être et de l’environnement.<br>
