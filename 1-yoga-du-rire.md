@@ -3,10 +3,6 @@ layout: page
 title: Yoga du rire 
 permalink: /yoga-du-rire/
 ---
-Une idée pour faire plaisir à Noël ? Contactez-moi pour offrir ce bon cadeau !
-<center><img class="fit-picture" src="../../../assets/img/bon cadeau specimen.jpg"
-     alt="bon cadeau yoga du rire"></center>
-
 ### Deux séances hebdomadaires : Une le jeudi soir de 18 à 19h au Fret et une autre le vendredi matin de 9h30 à 10h30 à Lanvéoc (séance assise)
 <!--Rendez-vous donc le jeudi 12 septembre 2024 à la maison Ursule du Fret pour la 1ère d'une longue série de rires !
 -->
