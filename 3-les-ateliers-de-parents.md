@@ -26,9 +26,6 @@ Sur inscription <br>
 20 euros par atelier <br>
 De mars à juin 2025, le dernier mercredi de chaque mois, 19h-21h au 11 rue de Tal Ar Groas <br>
 
-
-Contact :
-Mélanie
-07 81 18 85 31
-melanie.gettings@gmail.com
- 
+**Contact :**
+- courriel : <a href="melanie.gettings@gmail.com">melanie.gettings@gmail.com</a>
+- Mélanie : 07 81 18 85 31
