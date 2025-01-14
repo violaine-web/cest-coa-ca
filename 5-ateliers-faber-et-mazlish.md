@@ -30,8 +30,8 @@ Pour les inscriptions, c'est par [là](https://www.helloasso.com/associations/c-
 - 240 € pour un couple + 50 € pour les livres
 
 **Contact :**
-- Maud : 06 40 52 46 12
 - courriel : <a href="mailto:maud77@gmail.com">maud77@gmail.com</a>
+- Maud : 06 40 52 46 12
 
 <br>
 <br>
