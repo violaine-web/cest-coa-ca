@@ -2,9 +2,9 @@
 layout: home
 ---
 **Nos rendez-vous sur inscription**<br>
-<center>Jeudi 06/02 - 18h : YOGA DU RIRE<br>
-Vendredi 07/02 - 9h30 : YOGA DU RIRE ASSIS<br>
-Dimanche 16/02 - 14h : FAMILLES DANS LES BOIS<br>
+<center>Jeudi 20/02 - 18h : YOGA DU RIRE<br>
+Vendredi 28/02 - 9h30 : YOGA DU RIRE ASSIS<br>
+Dimanche 02/03 - 14h : FAMILLES DANS LES BOIS<br>
 Mercredi 26/03 - 19h : ATELIER DE PARENTS</center>
 
 
