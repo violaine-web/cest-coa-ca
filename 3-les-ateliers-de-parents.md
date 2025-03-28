@@ -2,7 +2,7 @@
 layout: page
 title: Ateliers de parents
 permalink: /ateliers-de-parents/
-published: true
+published: false
 ---
 
 Parfois être parent c'est vraiment éprouvant. <br>
