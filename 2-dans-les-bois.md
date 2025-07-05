@@ -4,10 +4,11 @@ title: Dans les Bois
 permalink: /dans-les-bois/
 published: true
 ---
-La Forest school propose un atelier régulier ouvert à toutes les familles quelque soit l'âge des enfants, un dimanche par mois de 14 à 17h.
-De façon ponctuelle, nous accueillons également des classes, centres de loisirs, crèches, assistantes maternelles : contactez-nous pour construire ensemble un projet adapté à vos besoins !
+**Programme 2025-2026**<br>
+La Forest school propose un atelier régulier ouvert à toutes les familles quelque soit l'âge des enfants, un dimanche par mois de 14 à 17h.<br>
+De façon ponctuelle, nous accueillons également des classes, centres de loisirs, crèches, assistantes maternelles : contactez-nous pour construire ensemble un projet adapté à vos besoins !<br>
 
-Les inscriptions pour l'atelier "Familles des Bois" 2025-2026 sont ouvertes !
+Les inscriptions pour l'atelier "Familles des Bois" 2025-2026 sont ouvertes !<br>
 <img class="fit-picture" src="../../../assets/img/affiche 2025-2026.pdf"
      alt="Familles des bois 2025-2026 Affiche">
 
