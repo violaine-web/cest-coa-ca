@@ -2,7 +2,7 @@
 layout: page
 title: Faber et Mazlish
 permalink: /ateliers-faber-et-mazlish/
-published: true
+published: false
 ---
 <img class="fit-picture" src="../../../assets/img/affiche-faber-mazlish-maud.jpg"
      alt="Affiche Ateliers Faber et Mazlish">
