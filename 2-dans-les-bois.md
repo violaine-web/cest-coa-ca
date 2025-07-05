@@ -9,7 +9,7 @@ La Forest school propose un atelier régulier ouvert à toutes les familles quel
 De façon ponctuelle, nous accueillons également des classes, centres de loisirs, crèches, assistantes maternelles : contactez-nous pour construire ensemble un projet adapté à vos besoins !<br>
 
 **Les inscriptions pour l'atelier "Familles des Bois" 2025-2026 sont ouvertes !**<br>
-<img class="fit-picture" src="../../../assets/img/affiche 2025-2026.pdf"
+<img class="fit-picture" src="../../../assets/img/assets/img/afficheFdB25_26.pdf.pdf"
      alt="Familles des bois 2025-2026 Affiche">
 
 
