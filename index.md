@@ -1,10 +1,11 @@
 ---
 layout: home
 ---
-**Nos rendez-vous sur inscription**<br>
-<center>Jeudi 30/04 - 18h : YOGA DU RIRE<br>
-Vendredi 04/04 - 9h30 : YOGA DU RIRE ASSIS<br>
-Dimanche 30/03 - 14h : FAMILLES DANS LES BOIS<br>
+**Nos rendez-vous **<br>
+<center>
+  Vendredi 05 septembre 2025 : FORUM DES ASSOCIATIONS DE LANVEOC<br>
+  Samedi 6 septembre  : FORUM DES ASSOCIATIONS DE CROZON<br>
+
 
 
 
@@ -18,7 +19,7 @@ Toutes les actions menées par l'association se feront dans une démarche respec
 Ainsi C’est COACA ? se veut être une association évoluant dans les domaines de l’éducation, de la santé, du bien-être et de l’environnement.<br>
 
 Pour adhérer, ou simplement nous soutenir, le montant est fixé à 4€ / personne quelque soit l'âge. <br>
-C'est par [ici](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/adhesion-2023-2024/widget-bouton) !
+C'est par [ici](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/adhesion-2023-2024/widget-bouton)!
 
 *******
 <!--Le mouvement, les sensations corporelles, l’écoute et le dialogue sont la base de notre travail sur les relations, à soi, aux autres et au monde.<br>
