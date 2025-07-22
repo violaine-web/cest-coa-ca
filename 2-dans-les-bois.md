@@ -8,7 +8,11 @@ published: true
 La Forest school propose un atelier régulier ouvert à toutes les familles quelque soit l'âge des enfants, un dimanche par mois de 14 à 17h.<br>
 De façon ponctuelle, nous accueillons également des classes, centres de loisirs, crèches, assistantes maternelles : contactez-nous pour construire ensemble un projet adapté à vos besoins !<br>
 
-**Les inscriptions pour l'atelier "Familles des Bois" 2025-2026 sont ouvertes !** Inscrivez-vous [en ligne] !<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/atelier-familles-des-bois-25-26/widget-vignette" style="width:350px;border:none;" onload="window.addEventListener( 'message', e => { const dataHeight = e.data.height; const haWidgetElement = document.getElementById('haWidget'); haWidgetElement.height = dataHeight + 'px'; } )"></iframe>
+**Les inscriptions pour l'atelier "Familles des Bois" 2025-2026 sont ouvertes !** 
+
+Tarifs <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/atelier-familles-des-bois-25-26/widget" style="width: 100%; border: none;" onload="window.addEventListener( 'message', e => { const dataHeight = e.data.height; const haWidgetElement = document.getElementById('haWidget'); haWidgetElement.height = dataHeight + 'px'; } )" ></iframe>
+<br>
+Inscription [en ligne] !<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/atelier-familles-des-bois-25-26/widget-vignette" style="width:350px;border:none;" onload="window.addEventListener( 'message', e => { const dataHeight = e.data.height; const haWidgetElement = document.getElementById('haWidget'); haWidgetElement.height = dataHeight + 'px'; } )"></iframe>
 
 <br>
 
