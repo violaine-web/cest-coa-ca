@@ -31,7 +31,7 @@ permalink: /yoga-du-rire/
 | Carte de 10 séances | 100 €   |  30 € |
 | Séance ponctuelle | 12 €   |  5 € |
 
-Inscrivez-vous [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/cotisation-yoga-du-rire/widget-vignette)!
+Inscrivez-vous [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/inscription-au-yoga-du-rire-2025-2026)!
 Pour participer à cet atelier vous devez être adhérent·e de l'association, c'est par [ici](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/adhesion-2025-2026)
 
 Avant de vous inscrire merci de prendre connaissance des [contre-indications](https://www.formation-yogadurire.fr/contre-indications-yoga-du-rire/)
