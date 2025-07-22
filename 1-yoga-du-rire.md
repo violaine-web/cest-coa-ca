@@ -3,8 +3,8 @@ layout: page
 title: Yoga du rire 
 permalink: /yoga-du-rire/
 ---
-### Deux séances hebdomadaires : Une le jeudi soir de 18 à 19h au Fret et une autre le vendredi matin de 9h30 à 10h30 à Lanvéoc (séance assise)
-<!--Rendez-vous donc le jeudi 12 septembre 2024 à la maison Ursule du Fret pour la 1ère d'une longue série de rires !
+### A partir de septembre 2025 : Une séance hebdomadaire et une séance mensuelle : Tous les jeudis matin de 10h30 à 11h30 à la maison Ursule au Fret et une fois par mois le samedi matin de 10h30 à 11h30 à la maison du Temps Libre à Crozon
+<!--Rendez-vous donc le jeudi 11 septembre 2025 à la maison Ursule du Fret pour la 1ère d'une longue série de rires !
 -->
 
 <img class="fit-picture" src="../../../assets/img/carte_membre.png"
@@ -14,25 +14,27 @@ permalink: /yoga-du-rire/
 <center><img class="fit-picture" src="../../../assets/img/Bienfaits-du-rire-800x450.jpg"
      alt="Bienfaits du Yoga du Rire"></center>
 
-<h4>Venir en tenue confortable</h4>
+<h4>Venir en tenue confortable et de préférence avec des chaussons !</h4>
 <br>
-**Tarifs** LA PREMIERE SEANCE VOUS EST OFFERTE ! 
+**Tarifs** LA SEANCE DE DECOUVERTE VOUS EST OFFERTE ! 
 
 | Formules | Adulte | Enfant |
 |--------|:------:|------:|
-| Abonnement annuel | 175 €   |  105 € |
+| Abonnement annuel à la séance hebdomadaire| 198 €   |  99 € |
+| Abonnement annuel à la séance mensuelle| 60 €   |  30 € |
 | Abonnement bimestriel | |  |
-| Sept-oct (6 séances) | 42 €   |  18 € |
-| Nov-déc (6 séances) | 42 €   |  18 € |
-| Jan-fév (5 séances) | 35 €   |  15 € |
-| Mars-avril (6 séances) | 42 €   |  18 € |
-| Mai-juin (10 séances) | 70 €   |  30 € |
+| Sept-oct (6 séances) | 48 €   |  18 € |
+| Nov-déc (6 séances) | 48 €   |  18 € |
+| Jan-fév (6 séances) | 48 €   |  18 € |
+| Mars-avril (6 séances) | 48 €   |  18 € |
+| Mai-juin (9 séances) | 72 €   |  27 € |
 | Carte de 10 séances | 100 €   |  30 € |
 | Séance ponctuelle | 12 €   |  5 € |
 
-Inscrivez-vous [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/cotisation-yoga-du-rire/widget-vignette) !
+Inscrivez-vous [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/cotisation-yoga-du-rire/widget-vignette)!
+Pour participer à cet atelier vous devez être adhérent·e de l'association, c'est par [ici](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/adhesion-2025-2026)
 
-Avant de vous décider, en cas de doutes, voici un lien vers [les contre-indications](https://www.formation-yogadurire.fr/contre-indications-yoga-du-rire/)
+Avant de vous inscrire merci de prendre connaissance des [contre-indications](https://www.formation-yogadurire.fr/contre-indications-yoga-du-rire/)
 
 **Contact :**
 - courriel : <a href="contact@cest-coaca.fr">contact@cest-coaca.fr</a>
