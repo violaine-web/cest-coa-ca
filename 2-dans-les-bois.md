@@ -12,10 +12,8 @@ De façon ponctuelle, nous accueillons également des classes, centres de loisir
 
 <br>
 
-<img class="fit-picture" src="./assets/img/afficheFdB25_26.jpg"
+<img class="fit-picture" src="../../../assets/img/afficheFdB25_26.jpg"
      alt="Familles des bois 2025-2026 Affiche">
-
-
      
 <!-- ### La forest school a ouvert à la rentrée 2024
 
