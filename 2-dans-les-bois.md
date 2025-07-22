@@ -10,7 +10,7 @@ De façon ponctuelle, nous accueillons également des classes, centres de loisir
 
 **Les inscriptions pour l'atelier "Familles des Bois" 2025-2026 sont ouvertes !** 
 
-Consulter [Les tarifs](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/atelier-familles-des-bois-25-26/widget)
+Consulter [les tarifs](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/atelier-familles-des-bois-25-26/widget)
 <br>
 S'inscrire [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/atelier-familles-des-bois-25-26/widget-vignette)!
 
