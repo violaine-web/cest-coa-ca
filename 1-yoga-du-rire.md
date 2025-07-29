@@ -5,8 +5,9 @@ permalink: /yoga-du-rire/
 ---
 **Rendez-vous le jeudi 11 septembre 2025 à la maison Ursule du Fret pour la 1ère d'une longue série de rires** !<br>
 
-###Nouvel horaire : 10h30 - 11h30 à la maison Ursule au Fret <br>
-ET le premier samedi du mois de 10h30 à 11h30 à la maison du Temps Libre à Crozon ! consulter le calendrier [ici]###
+Nouvel horaire : 10h30 - 11h30 à la maison Ursule au Fret <br>
+ET le premier samedi du mois de 10h30 à 11h30 à la maison du Temps Libre à Crozon !<br>
+Consulter le calendrier [ici]
 
 **Les inscriptions 2025-2026 sont ouvertes !** 
 
