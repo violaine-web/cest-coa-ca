@@ -4,7 +4,6 @@ layout: home
 
 **Nos rendez-vous**
 
-- Vendredi 05 septembre 2025 : FORUM DES ASSOCIATIONS DE LANVEOC
 - Samedi 6 septembre  : FORUM DES ASSOCIATIONS DE CROZON
 <br>
 <br>
