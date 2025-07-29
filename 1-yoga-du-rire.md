@@ -5,12 +5,12 @@ permalink: /yoga-du-rire/
 ---
 **Rendez-vous le jeudi 11 septembre 2025 à la maison Ursule du Fret pour la 1ère d'une longue série de rires** !<br>
 
-###Reprise le jeudi 11 septembre ! Nouvel horaire : 10h30 - 11h30 à la maison Ursule au Fret <br>
-ET le premier samedi du mois de 10h30 à 11h30 à la maison du Temps Libre à Crozon ! consulter le calendrier [ici]
+###Nouvel horaire : 10h30 - 11h30 à la maison Ursule au Fret <br>
+ET le premier samedi du mois de 10h30 à 11h30 à la maison du Temps Libre à Crozon ! consulter le calendrier [ici]###
 
 **Les inscriptions 2025-2026 sont ouvertes !** 
 
-Consulter [les tarifs] et s'inscrire [en ligne] (https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/inscription-au-yoga-du-rire-2025-2026)
+Consulter les tarifs et s'inscrire [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/inscription-au-yoga-du-rire-2025-2026)
 <br>
 
 <img class="fit-picture" src="../../../assets/img/carte_membre.png"
