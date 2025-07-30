@@ -14,12 +14,12 @@ Consulter le calendrier [ici]
 Consulter les tarifs et s'inscrire [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/inscription-au-yoga-du-rire-2025-2026)
 <br>
 
-<img class="fit-picture" src="../../../assets/img/carte_membre.png"
-     alt="carte de membre de l'observatoire de yoga du rire ">
-
 <br>
 <center><img class="fit-picture" src="../../../assets/img/Bienfaits-du-rire-800x450.jpg"
      alt="Bienfaits du Yoga du Rire"></center>
+<br>
+<img class="fit-picture" src="../../../assets/img/carte_membre.png"
+     alt="carte de membre de l'observatoire de yoga du rire ">
 
 <h4>Venir en tenue confortable et de préférence avec des chaussons !</h4>
 <br>
