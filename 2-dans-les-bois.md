@@ -20,7 +20,7 @@ S'inscrire [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-d
      alt="Familles des bois 2025-2026 Affiche">
 <br>
 La pédagogie par la nature et ses bienfaits<br>
-<img class="fit-picture" src="../../../assets/img/bienfaits PPN arbre.png  
+<img class="fit-picture" src="../../../assets/img/bienfaits PPN arbre.png"  
 alt="L'arbre des bienfaits de la PPN">
 <!-- ### La forest school a ouvert à la rentrée 2024
 
