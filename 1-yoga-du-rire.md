@@ -28,7 +28,7 @@ Consulter les tarifs et s'inscrire [en ligne](https://www.helloasso.com/associat
 | Formules | Adulte | Enfant |
 |--------|:------:|------:|
 | Abonnement annuel à la séance hebdomadaire| 198 €   |  99 € |
-| Abonnement annuel à la séance mensuelle| 60 €   |  30 € |
+| Abonnement annuel à la séance mensuelle| 80 €   |  30 € |
 | Abonnement bimestriel | |  |
 | Sept-oct (6 séances) | 48 €   |  18 € |
 | Nov-déc (6 séances) | 48 €   |  18 € |
