@@ -19,7 +19,7 @@ Toutes les actions menées par l'association se feront dans une démarche respec
 Ainsi C’est COACA ? se veut être une association évoluant dans les domaines de l’éducation, de la santé, du bien-être et de l’environnement.<br>
 
 
-**Pour adhérer, ou simplement nous soutenir, le montant est fixé à 4€ / personne quelque soit l'âge.**
+**Pour adhérer, afin de participer à nos activités ou simplement pour nous soutenir, le montant est fixé à 4€ / personne quelque soit l'âge.**
 C'est par [ici](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/adhesion-2025-2026)!
 <br>
 <br>
