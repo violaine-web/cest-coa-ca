@@ -27,7 +27,7 @@ C'est par [ici](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-c
 <!--Le mouvement, les sensations corporelles, l’écoute et le dialogue sont la base de notre travail sur les relations, à soi, aux autres et au monde.<br>
 Nous proposons également des programmes personnalisés, mêlants nos différentes compétences, sur devis.
 -->
-Pour plus d'informations, contactez-nous par mail : <a href="mailto:contact@cest-coaca.fr">contact@cest-coaca.fr</a>
+Pour plus d'informations, contactez-nous par mail : <a href="mailto:contact@cest-coaca.fr">contact@cest-coaca.fr</a><br>
 Vous pouvez également nous suivre sur notre page [Facebook](https://www.facebook.com/profile.php?id=61566927644585)
 
 
