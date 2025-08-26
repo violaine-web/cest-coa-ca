@@ -9,10 +9,10 @@ Pour plus d'informations, contactez-nous par mail : <a href="mailto:contact@cest
 
 **Yoga du Rire :** Anne 06 78 18 82 21<br>
 **Dans les Bois :** Anne 06 78 18 82 21<br>
-**Faber et Mazlish :** Maud 06 40 52 46 12<br>
+<!--**Faber et Mazlish :** Maud 06 40 52 46 12<br>
 **Ateliers de parents** : Mélanie 07 81 18 85 31<br>
 **Groupe de pratique CNV :** Mélanie 07 81 18 85 31<br>
-
+-->
 
 -------------------------------------------------------------------------------------------------------------------<br>
 
