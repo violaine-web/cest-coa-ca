@@ -4,7 +4,7 @@ layout: home
 
 **Nos rendez-vous**
 
-- Samedi 6 septembre  : FORUM DES ASSOCIATIONS DE CROZON
+- Samedi 6 septembre 2025 : FORUM DES ASSOCIATIONS de 9h-17h à la salle NOMINOË - CROZON
 <br>
 <br>
 
