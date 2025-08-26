@@ -71,7 +71,7 @@ Edition 2024 :
 <br>
 -->
 
-Et juste pour le plaisir, voici le teaser de la première édition
+Et juste pour le plaisir, voici le teaser de la première édition (2022)
 
 <p class="text-center">
         <iframe src="https://player.vimeo.com/video/751674265?color=ffffff" width="640" height="360"
