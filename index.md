@@ -28,7 +28,7 @@ C'est par [ici](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-c
 Nous proposons également des programmes personnalisés, mêlants nos différentes compétences, sur devis.
 -->
 Pour plus d'informations, contactez-nous par mail : <a href="mailto:contact@cest-coaca.fr">contact@cest-coaca.fr</a>
-ou retrouvez-nous sur notre page [Facebook](https://www.facebook.com/profile.php?id=61566927644585)
+Vous pouvez également nous suivre sur notre page [Facebook](https://www.facebook.com/profile.php?id=61566927644585)
 
 
 <!--
