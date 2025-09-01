@@ -16,7 +16,7 @@ S'inscrire [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-d
 
 <br>
 
-<img class="fit-picture" src="../../../assets/img/affiche  Familles des bois 2025-2026-2.jpg"
+<img class="fit-picture" src="../../../assets/img/affiche 2025-2026.jpg"
      alt="Familles des bois 2025-2026 Affiche">
 <br>
 
