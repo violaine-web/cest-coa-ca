@@ -11,6 +11,8 @@ Consulter le calendrier [ici]
 
 <a href="./assets/img/affiche 2025-2026.jpg"download="affiche 2025-2026.jpg">Télécharger l'image</a>
 
+<a href="/assets/img/affiche 2025-2026.jpg">Télécharger le numéro</a>
+
 **Les inscriptions 2025-2026 sont ouvertes !** 
 
 Consulter les tarifs et s'inscrire [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/inscription-au-yoga-du-rire-2025-2026)
