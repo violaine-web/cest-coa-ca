@@ -7,11 +7,7 @@ permalink: /yoga-du-rire/
 
 Nouvel horaire : 10h30 - 11h30 à la maison Ursule au Fret <br>
 ET le premier samedi du mois de 10h30 à 11h30 à la maison du Temps Libre à Crozon !<br>
-Consulter le calendrier [ici]
-
-<a href="./assets/img/affiche 2025-2026.jpg"download="affiche 2025-2026.jpg">Télécharger l'image</a>
-
-<a href="/assets/img/affiche 2025-2026.jpg">Télécharger le numéro</a>
+Consulter le calendrier <a href="/assets/img/calendrier-YDR-samedi-25-26.pdf">ici</a>
 
 **Les inscriptions 2025-2026 sont ouvertes !** 
 
