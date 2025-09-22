@@ -4,7 +4,10 @@ layout: home
 
 **Nos rendez-vous**
 
-- Samedi 6 septembre 2025 : FORUM DES ASSOCIATIONS de 9h-17h à la salle NOMINOË - CROZON
+- Jeudi 25 septembre 2025 : Yoga du Rire - 10h30/11h30 - Maison Ursule au Fret (Crozon)
+- Samedi 04 octobre : Yoga du Rire - 10h30/11h30 - Salle Ty Skol à St Hernot (Crozon)
+- Dimanche 05 octobre : Familles des bois - 14h/17h00 - Forest school
+  
 <br>
 <br>
 
