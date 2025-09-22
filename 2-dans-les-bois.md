@@ -6,7 +6,8 @@ published: true
 ---
 **Programme 2025-2026**<br>
 La Forest school propose un atelier régulier ouvert à toutes les familles quelque soit l'âge des enfants, un dimanche par mois de 14 à 17h.<br>
-De façon ponctuelle, nous accueillons également des classes, centres de loisirs, crèches, assistantes maternelles : contactez-nous pour construire ensemble un projet adapté à vos besoins !<br>
+
+De façon ponctuelle ou régulière sur un projet annuel, nous accueillons des classes, centres de loisirs, crèches, assistantes maternelles : contactez-nous pour construire ensemble un projet adapté à vos besoins !<br>
 
 **Les inscriptions pour l'atelier "Familles des Bois" 2025-2026 sont ouvertes !** 
 
