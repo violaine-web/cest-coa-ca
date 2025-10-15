@@ -29,7 +29,7 @@ Association C'est COACA ? C'est de la Culture d'Ocytocine pour Accorder le Coeur
 33 bis rue de Menez Gorre<br>
 29160 CROZON<br>
 **Représentante légale**<br>
-Présidente : Mme Anne RAFFRAY<br>
+Présidente : Mme RAFFRAY<br>
 **Immatriculation**<br>
 Numéro d'immatriculation de l'association (SIRET) : 908 307 614 00010<br>
 
