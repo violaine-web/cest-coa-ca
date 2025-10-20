@@ -4,9 +4,10 @@ layout: home
 
 **Nos rendez-vous**
 
-- Jeudi 16 octobre 2025 : Yoga du Rire - 10h30/11h30 - Maison Ursule au Fret (Crozon)
+
 - Samedi 01 novembre : Yoga du Rire - 10h30/11h30 - Grande salle Maison du temps libre (Crozon)
 - Dimanche 02 novembre : Familles des bois - 14h/17h00 - Forest school
+- Jeudi 06 novembre : Yoga du Rire - 10h30/11h30 - Maison Ursule au Fret (Crozon)
   
 <br>
 <br>
