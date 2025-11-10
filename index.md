@@ -5,9 +5,10 @@ layout: home
 **Nos rendez-vous**
 
 
-- Samedi 01 novembre : Yoga du Rire - 10h30/11h30 - Grande salle Maison du temps libre (Crozon)
-- Dimanche 02 novembre : Familles des bois - 14h/17h00 - Forest school
-- Jeudi 06 novembre : Yoga du Rire - 10h30/11h30 - Maison Ursule au Fret (Crozon)
+
+- Jeudi 13 novembre : Yoga du Rire - 10h30/11h30 - Maison Ursule au Fret (Crozon)
+- Samedi 20 décembre : Yoga du Rire - 10h30/11h30 - Grande salle Maison du temps libre (Crozon)
+- Dimanche 21 décembre : Familles des bois - 14h/17h00 - Forest school
   
 <br>
 <br>
