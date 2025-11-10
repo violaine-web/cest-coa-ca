@@ -9,7 +9,7 @@ La Forest school propose un atelier régulier ouvert à toutes les familles quel
 
 De façon ponctuelle ou régulière sur un projet annuel, nous accueillons des classes, centres de loisirs, crèches, assistantes maternelles : contactez-nous pour construire ensemble un projet adapté à vos besoins !<br>
 
-**Les inscriptions pour l'atelier "Familles des Bois" 2025-2026 sont ouvertes !** 
+**Il reste 2 places pour l'atelier "Familles des Bois" 2025-2026 !** 
 
 Consulter [les tarifs](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/atelier-familles-des-bois-25-26/widget)
 <br>
@@ -17,7 +17,7 @@ S'inscrire [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-d
 
 <br>
 
-<img class="fit-picture" src="../../../assets/img/affiche 2025-2026.jpg"
+<img class="fit-picture" src="../../../assets/img/affiche 2025-2026 modifiée.jpg"
      alt="Familles des bois 2025-2026 Affiche">
 <br>
 
