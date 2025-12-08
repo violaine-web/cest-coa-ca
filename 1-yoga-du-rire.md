@@ -3,7 +3,7 @@ layout: page
 title: Yoga du rire 
 permalink: /yoga-du-rire/
 ---
-**Offrez-vous / offrez leur un bon cadeau pour séance de yoga du rire!** !<br>
+**Offrez-vous / offrez leur un bon cadeau pour une séance de YOGA du RIRE !** !<br>
 c'est par [ici]! <iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/paiements/bon-cadeau-yoga-du-rire/widget" style="width: 100%; border: none;" onload="window.addEventListener( 'message', function(e) { const dataHeight = e.data.height; const haWidgetElement = document.getElementById('haWidget'); haWidgetElement.height = dataHeight + 'px'; } )" ></iframe>
 <img class="fit-picture" src="../../../assets/img/boncadeauyogadurire.jpg"
      alt="Bon cadeau pour une séance de yoga du rire">
