@@ -8,7 +8,7 @@ c'est par [ici]! <iframe id="haWidget" allowtransparency="true" src="https://www
 <img class="fit-picture" src="../../../assets/img/boncadeauyogadurire.jpg"
      alt="Bon cadeau pour une séance de yoga du rire">
 
-saison 25-26 : les jeudis matins 10h30 - 11h30 à la maison Ursule au Fret <br>
+**Horaires saison 25-26** : les jeudis matins 10h30 - 11h30 à la maison Ursule au Fret <br>
 ET un samedi par mois de 10h30 à 11h30 à la maison du Temps Libre à Crozon !<br>
 Consulter le calendrier <a href="/assets/img/calendrier_YDR_samedi_25-26_modifie.pdf">ici</a>
 
