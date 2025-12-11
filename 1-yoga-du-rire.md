@@ -4,9 +4,11 @@ title: Yoga du rire
 permalink: /yoga-du-rire/
 ---
 **Offrez-vous / offrez leur un bon cadeau pour une séance de YOGA du RIRE !** !<br>
-c'est par [ici !](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/paiements/bon-cadeau-yoga-du-rire)
+pour les adultes, c'est par [ici !](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/paiements/bon-cadeau-yoga-du-rire)<br>
+et pour les enfants par [là !](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/paiements/bon-cadeau-yoga-du-rire-enfant-2)<br>
 <img class="fit-picture" src="../../../assets/img/boncadeauyogadurire.jpg"
      alt="Bon cadeau pour une séance de yoga du rire">
+
 
 **Horaires saison 25-26** : les jeudis matins 10h30 - 11h30 à la maison Ursule au Fret <br>
 ET un samedi par mois de 10h30 à 11h30 à la maison du Temps Libre à Crozon !<br>
