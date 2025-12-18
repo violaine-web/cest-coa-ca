@@ -6,10 +6,10 @@ layout: home
 
 
 
-- Jeudi 18 décembre : Yoga du Rire - 10h30/11h30 - Maison Ursule au Fret (Crozon)
 - Samedi 20 décembre : Yoga du Rire - 10h30/11h30 - Salle du pignon de la maison des associations (Crozon)
 - Dimanche 21 décembre : Familles des bois - 14h/17h00 - Forest school
-  
+- Jeudi 8 janvier : Yoga du Rire - 10h30/11h30 - Maison Ursule au Fret (Crozon)
+    
 <br>
 <br>
 
