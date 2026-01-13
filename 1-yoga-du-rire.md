@@ -3,12 +3,6 @@ layout: page
 title: Yoga du rire 
 permalink: /yoga-du-rire/
 ---
-**Offrez-vous / offrez leur un bon cadeau pour une séance de YOGA du RIRE !** !<br>
-pour les adultes, c'est par [ici !](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/paiements/bon-cadeau-yoga-du-rire)<br>
-et pour les enfants par [là !](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/paiements/bon-cadeau-yoga-du-rire-enfant-2)<br>
-<img class="fit-picture" src="../../../assets/img/boncadeauyogadurire.jpg"
-     alt="Bon cadeau pour une séance de yoga du rire">
-
 
 **Horaires saison 25-26** : les jeudis matins 10h30 - 11h30 à la maison Ursule au Fret <br>
 ET un samedi par mois de 10h30 à 11h30 à la maison du Temps Libre à Crozon !<br>
@@ -22,9 +16,12 @@ Consulter les tarifs et s'inscrire [en ligne](https://www.helloasso.com/associat
 <br>
 <center><img class="fit-picture" src="../../../assets/img/Bienfaits-du-rire-800x450.jpg"
      alt="Bienfaits du Yoga du Rire"></center>
-<br>
-<img class="fit-picture" src="../../../assets/img/carte_membre.png"
-     alt="carte de membre de l'observatoire de yoga du rire ">
+
+**Offrez-vous / offrez leur un bon cadeau pour une séance de YOGA du RIRE !** !<br>
+pour les adultes, c'est par [ici !](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/paiements/bon-cadeau-yoga-du-rire)<br>
+et pour les enfants par [là !](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/paiements/bon-cadeau-yoga-du-rire-enfant-2)<br>
+<img class="fit-picture" src="../../../assets/img/boncadeauyogadurire.jpg"
+     alt="Bon cadeau pour une séance de yoga du rire">
 
 <h4>Venir en tenue confortable et de préférence avec des chaussons !</h4>
 <br>
@@ -51,6 +48,10 @@ Avant de vous inscrire merci de prendre connaissance des [contre-indications](ht
 **Contact :**
 - courriel : <a href="contact@cest-coaca.fr">contact@cest-coaca.fr</a>
 - Anne : 06 78 18 82 21
+<br>
+<img class="fit-picture" src="../../../assets/img/carte_membre.png"
+     alt="carte de membre de l'observatoire de yoga du rire ">
+
 
 <!--Je pratique le yoga du rire et vous propose de venir mélanger nos rires chaque vendredi soir ! Les séances sont ouvertes à tous.tes, enfants et adultes !  
 >Pourquoi j’adore cette pratique ? La raison est simple : chaque séance ressemble à une fête où on se remplit de vitalité et de bonne humeur.  
