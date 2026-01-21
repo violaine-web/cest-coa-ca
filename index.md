@@ -2,12 +2,17 @@
 layout: home
 ---
 
+**Actualités**
+
+La forest school fait une pause pour l'hiver : reprise le 30/03 avec l'école Diwan de Crozon, le 01/04 avec l'ALSH de Crozon et le we du 05-06/04 pour un bivouac retrouvailles avec les familles des bois !
+
+Les séances de Yoga du Rire sont délocalisées suite à l'effondrement du pignon de la maison voisine à la maison Ursule ! Lieux différents selon les dates - info ci-dessous et sur Facebook au fur et à mesure
+
 **Nos rendez-vous**
 
 
-- Jeudi 15 janvier : Yoga du Rire - 10h30 / 11h30 - Maison Ursule (Le Fret - Crozon)
+- Jeudi 22 janvier : Yoga du Rire - **9h30 / 10h30** - Maison du Temps Libre (Crozon)
 - Samedi 31 janvier : Yoga du Rire - 10h30/11h30 - Salle du pignon de la maison des associations (Crozon)
-- Dimanche 01 février : Familles des bois - 14h/17h00 - Forest school
 
     
 <br>
