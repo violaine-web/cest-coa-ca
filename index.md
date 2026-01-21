@@ -11,7 +11,7 @@ Les séances de Yoga du Rire sont délocalisées suite à l'effondrement du pign
 **Nos rendez-vous**
 
 
-- Jeudi 22 janvier : Yoga du Rire - **9h30 / 10h30** - Maison du Temps Libre (Crozon)
+- Jeudi 22 janvier : Yoga du Rire - **9h30 / 10h30 - Maison du Temps Libre** (Crozon)
 - Samedi 31 janvier : Yoga du Rire - 10h30/11h30 - Salle du pignon de la maison des associations (Crozon)
 
     
