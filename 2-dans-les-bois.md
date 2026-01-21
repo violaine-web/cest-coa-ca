@@ -4,6 +4,8 @@ title: Dans les Bois
 permalink: /dans-les-bois/
 published: true
 ---
+**Trêve hivernale** la forêt reprendra son accueil d'humain·es au printemps : 30 mars pour l'école Diwan de Crozon, 01 avril pour le centre de loisirs de Crozon et 05-06 avril pour les familles.
+
 **Programme 2025-2026**<br>
 La Forest school propose un atelier régulier ouvert à toutes les familles quelque soit l'âge des enfants, un dimanche par mois de 14 à 17h.<br>
 
