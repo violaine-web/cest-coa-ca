@@ -11,8 +11,8 @@ Les séances de Yoga du Rire sont délocalisées suite à l'effondrement du pign
 **Nos rendez-vous**
 
 
-- Jeudi 29 janvier : Yoga du Rire - **10h30 / 11h30 - Maison des associations, salle du pignon** (Crozon)
-- Samedi 31 janvier : Yoga du Rire - 10h30/11h30 - Salle du pignon de la maison des associations (Crozon)
+- Jeudi 05 février : Yoga du Rire - **10h30 / 11h30 - Maison des associations, salle du pignon** (Crozon)
+- Samedi 14 février : Yoga du Rire - **10h30/11h30 - Salle du pignon de la maison des associations** (Crozon)
 
     
 <br>
