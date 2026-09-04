@@ -5,15 +5,13 @@ permalink: /yoga-du-rire/
 ---
 
 
-**Attention** modification régulière des lieux (élections, inondations, etc...) vérifier sur la page d'accueil ou sur facebook merci !
+**Horaires saison 26-27** : les jeudis matins 10h30 - 12h00 à la maison Ursule au Fret <br>
+ET un vendredi par mois de 19h00 à 20h30 à la maison des associations de Lanveoc !<br>
+Consulter le calendrier <a href="/assets/img/calendrier_YDR_samedi_26-27.pdf">ici</a>
 
-**Horaires saison 25-26** : les jeudis matins 10h30 - 11h30 à la maison Ursule au Fret <br>
-ET un samedi par mois de 10h30 à 11h30 à la maison du Temps Libre à Crozon !<br>
-Consulter le calendrier <a href="/assets/img/calendrier_YDR_samedi_25-26_modifie.pdf">ici</a>
+**Les inscriptions 2026-2027 sont ouvertes toute l'année !** 
 
-**Les inscriptions 2025-2026 sont ouvertes toute l'année !** 
-
-Consulter les tarifs et s'inscrire [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/inscription-au-yoga-du-rire-2025-2026)
+Consulter les tarifs et s'inscrire [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/inscription-au-yoga-du-rire-2026-2027)
 <br>
 
 <br>
