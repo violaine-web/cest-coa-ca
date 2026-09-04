@@ -4,17 +4,18 @@ title: Dans les Bois
 permalink: /dans-les-bois/
 published: true
 ---
-**Trêve hivernale** la forêt reprendra son accueil d'humain·es au printemps !
 
-**Programme 2025-2026**<br>
-La Forest school propose un atelier régulier ouvert à toutes les familles quelque soit l'âge des enfants, un dimanche par mois de 14 à 17h.<br>
+**Programme 2026-2027**<br>
+**Pour les familles** : 
+La Forest school proposera cette année un atelier à la journée le dimanche de 10h à 16h (04/10/26 et 18/04/27) et un atelier week-end avec bivouac et thème les samedis et dimanches de 15h à 13h30 (we 17-18/10/26 et 22-23/05/27).<br>
+L'inscription sera désormais possible à chaque atelier.
 
-De façon ponctuelle ou régulière sur un projet annuel, nous accueillons des classes, centres de loisirs, crèches, assistantes maternelles : contactez-nous pour construire ensemble un projet adapté à vos besoins !<br>
+**Pour les structures d'accueil** : ALSH, Ecoles, Crèches, etc : Contactez-nous pour construire ensemble un projet adapté à vos besoins !<br>
 
 
-Consulter [les tarifs](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/atelier-familles-des-bois-25-26/widget)
+Consulter [les tarifs](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/atelier-familles-des-bois-26-27/widget)
 <br>
-S'inscrire [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/atelier-familles-des-bois-25-26/widget-vignette)!
+S'inscrire [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/atelier-familles-des-bois-26-27/widget-vignette)!
 
 <br>
 
