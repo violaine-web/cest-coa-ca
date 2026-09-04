@@ -19,7 +19,7 @@ S'inscrire [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-d
 
 <br>
 
-<img class="fit-picture" src="../../../assets/img/affiche fdb 2026-2027.pdf"
+<img class="fit-picture" src="../../../assets/img/affiche fdb2026-2027.jpg"
      alt="Familles des bois 2026-2027 Affiche">
 <br>
 
