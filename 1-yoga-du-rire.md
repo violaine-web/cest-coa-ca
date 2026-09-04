@@ -26,7 +26,7 @@ et pour les enfants par [là !](https://www.helloasso.com/associations/c-est-coa
 
 <h4>Venir en tenue confortable et de préférence avec des chaussons !</h4>
 <br>
-**Tarifs** LA SEANCE DE DECOUVERTE VOUS EST OFFERTE ! 
+<!--**Tarifs** LA SEANCE DE DECOUVERTE VOUS EST OFFERTE ! 
 
 | Formules | Adulte | Enfant |
 |--------|:------:|------:|
@@ -39,10 +39,10 @@ et pour les enfants par [là !](https://www.helloasso.com/associations/c-est-coa
 | Mars-avril (6 séances) | 48 €   |  18 € |
 | Mai-juin (9 séances) | 72 €   |  27 € |
 | Carte de 10 séances | 100 €   |  30 € |
-| Séance ponctuelle | 12 €   |  5 € |
+| Séance ponctuelle | 12 €   |  5 € |-->
 
-Inscrivez-vous [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/inscription-au-yoga-du-rire-2025-2026)!
-Pour participer à cet atelier vous devez être adhérent·e de l'association, c'est par [ici](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/adhesion-2025-2026)
+Inscrivez-vous [en ligne](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/inscription-au-yoga-du-rire-2026-2027)!
+Pour participer à cet atelier vous devez être adhérent·e de l'association, c'est par [ici](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/adhesion-2026-2027)
 
 Avant de vous inscrire merci de prendre connaissance des [contre-indications](https://www.formation-yogadurire.fr/contre-indications-yoga-du-rire/)
 
