@@ -4,15 +4,19 @@ layout: home
 
 **Actualités**
 
-La forest school fait une pause pour l'hiver : reprise le 30/03 avec l'école Diwan de Crozon, le 01/04 avec l'ALSH de Crozon et le we du 05-06/04 pour un bivouac retrouvailles avec les familles des bois !
+Nos activités reprennent avec de nouvelles formules pour cette année 2026-2027 !
 
-Les séances de Yoga du Rire sont délocalisées suite à l'effondrement du pignon de la maison voisine à la maison Ursule ! Lieux différents selon les dates - info ci-dessous et sur Facebook au fur et à mesure
+Les séances de **Yoga du Rire** seront maintenant de 1h30 afin de pouvoir intégrer un temps plus long de relaxation (surprise à découvrir) et une nouvelle séance ouvre à Lanvéoc le vendredi soir (1*/mois)
+
+Les ateliers de **Familles des bois** auront lieu entre les vacances de printemps et les vacances d'automne. A la journée ou au week-end. Plus d'info sur la page dédiée.
+
+Les tarifs des cotisations aux ateliers et de l'adhésion à l'association ont été modifiés.
+
 
 **Nos rendez-vous**
 
-
-- Jeudi 12 mars : Yoga du Rire - **10h30 / 11h30 - Maison des associations, salle du pignon** (Crozon)
-- Samedi 04 avril : Yoga du Rire - **10h30/11h30 - Maison du temps libre** (Crozon)
+- Jeudi 10 septembre : Yoga du Rire - **10h30 / 12h00 - Maison Ursule - salle étage1** (Port du Fret - Crozon)
+- Vendredi 25/09 : Yoga du Rire - **19h00/20h30 - Maison des associations - salle étage1** (Lanveoc)
 
     
 <br>
@@ -29,8 +33,8 @@ Toutes les actions menées par l'association se feront dans une démarche respec
 Ainsi C’est COACA ? se veut être une association évoluant dans les domaines de l’éducation, de la santé, du bien-être et de l’environnement.<br>
 
 
-**Pour adhérer, afin de participer à nos activités ou simplement pour nous soutenir, le montant est fixé à 4€ / personne quelque soit l'âge.**
-C'est par [ici](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/adhesion-2025-2026)!
+**Pour adhérer, afin de participer à nos activités ou simplement pour nous soutenir, le montant est fixé à 10€ pour les personnes majeures, 5€ pour les mineures.**
+C'est par [ici](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/adhesion-2026-2027)!
 <br>
 <br>
 
