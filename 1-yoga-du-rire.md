@@ -7,7 +7,7 @@ permalink: /yoga-du-rire/
 
 **Horaires saison 26-27** : les jeudis matins 10h30 - 12h00 à la maison Ursule au Fret <br>
 ET un vendredi par mois de 19h00 à 20h30 à la maison des associations de Lanveoc !<br>
-Consulter le calendrier <a href="../../../assets/img/calendrier_YDR_samedi_26-27.pdf.pdf>ici</a>
+Consulter le calendrier <a href="../../../assets/img/calendrier_YDR_samedi_26-27.pdf.pdf">ici</a>
 
 **Les inscriptions 2026-2027 sont ouvertes toute l'année !** 
 
