@@ -18,6 +18,8 @@ Les tarifs des cotisations aux ateliers et de l'adhésion à l'association ont �
 - Jeudi 10 septembre : Yoga du Rire - **10h30 / 12h00 - Maison Ursule - salle étage1** (Port du Fret - Crozon)
 - Vendredi 25/09 : Yoga du Rire - **19h00/20h30 - Maison des associations - salle étage1** (Lanveoc)
 
+- AVANT le 20 septembre : INSCRIPTION pour l'atelier Familles des bois du 04/10 !
+
     
 <br>
 <br>
