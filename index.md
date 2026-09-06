@@ -27,7 +27,9 @@ Les tarifs des cotisations aux ateliers et de l'adhésion à l'association ont �
 <center><img class="fit-picture" src="./assets/img/page-accueil-site.jpg"
      alt="Photo de l'équipe"></center>
 <br>
-
+**Pour adhérer, afin de participer à nos activités ou simplement pour nous soutenir, le montant est fixé à 10€ pour les personnes majeures, 5€ pour les mineures.**
+C'est par [ici](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/adhesion-2026-2027)!
+<br>
 Objet de l'association : **C'est COAÇA ?**
 <br>
 L’association a pour but d’accompagner les citoyens et les citoyennes vers une société libérée de toutes formes de violence, en particulier des violences éducatives ordinaires, de promouvoir la santé physique et psychoaffective de chacun·e.<br>
@@ -35,9 +37,7 @@ Toutes les actions menées par l'association se feront dans une démarche respec
 Ainsi C’est COACA ? se veut être une association évoluant dans les domaines de l’éducation, de la santé, du bien-être et de l’environnement.<br>
 
 
-**Pour adhérer, afin de participer à nos activités ou simplement pour nous soutenir, le montant est fixé à 10€ pour les personnes majeures, 5€ pour les mineures.**
-C'est par [ici](https://www.helloasso.com/associations/c-est-coaca-c-est-de-la-culture-d-ocytocine-pour-accorder-le-coeur-et-les-actes/adhesions/adhesion-2026-2027)!
-<br>
+
 <br>
 
 <!--Le mouvement, les sensations corporelles, l’écoute et le dialogue sont la base de notre travail sur les relations, à soi, aux autres et au monde.<br>
